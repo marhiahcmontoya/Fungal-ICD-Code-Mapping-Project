@@ -1,0 +1,360 @@
+count,icd_version,code,description,group_order,main_group,fungal_group,organ_system,bodysite,fungal_order,fungal_genus,fungal_species,cat_internal_external,cat_disease_type
+1,ICD-9,1176,Allescheriosis Petriellidosis,11,Other Fungus-specific Mycoses,Scedosporium,nonspecific,nonspecific,Microascales Onygenales,Scedosporium Pseudallescheria Allescheria,Nonspecific,nonspecific,nonspecific
+2,ICD-9,1173,Aspergillosis,1,Aspergillus,Aspergillus,nonspecific,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+3,ICD-9,4846,Pneumonia in aspergillosis,1,Aspergillus,Aspergillus,respiratory,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+4,ICD-9,1160,Blastomycosis,2,Blastomyces,Blastomyces,nonspecific,nonspecific,Onygenales,Blastomyces,Nonspecific,nonspecific,nonspecific
+5,ICD-9,11281,Candidal endocarditis,3,Candida,Candida,cardiovascular,heart,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+6,ICD-9,11285,Candidal enteritis,3,Candida,Candida,digestive,gastrointestinal,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+7,ICD-9,11284,Candidal esophagitis,3,Candida,Candida,digestive,esophagus,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+8,ICD-9,11283,Candidal meningitis,3,Candida,Candida,nervous,brain,Saccharomycetales,Candida,Nonspecific,internal,invasive
+9,ICD-9,11282,Candidal otitis externa,3,Candida,Candida,nervous,ear,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+10,ICD-9,1124,Candidiasis of lung,3,Candida,Candida,respiratory,lungs,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+11,ICD-9,1120,Candidiasis of mouth,3,Candida,Candida,digestive,mouth,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+12,ICD-9,1122,Candidiasis of other urogenital sites,3,Candida,Candida,genitourinary,other,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+13,ICD-9,1123,Candidiasis of skin and nails,3,Candida,Candida,integumentary,skin nails,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+14,ICD-9,1129,Candidiasis of unspecified site,3,Candida,Candida,nonspecific,unspecified,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+15,ICD-9,1121,Candidiasis of vulva and vagina,3,Candida,Candida,genitourinary,vulva vagina,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+16,ICD-9,1125,Disseminated candidiasis,3,Candida,Candida,systemic,nonspecific,Saccharomycetales,Candida,Nonspecific,internal,invasive
+17,ICD-9,11289,Other candidiasis of other specified sites,3,Candida,Candida,nonspecific,other,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+18,ICD-9,1144,Chronic pulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,chronic
+19,ICD-9,1142,Coccidioidal meningitis,4,Coccidioides,Coccidioides,nervous,brain,Onygenales,Coccidioides,Nonspecific,internal,invasive
+20,ICD-9,114,COCCIDIOIDOMYCOSIS,4,Coccidioides,Coccidioides,nonspecific,nonspecific,Onygenales,Coccidioides,Nonspecific,nonspecific,nonspecific
+21,ICD-9,1149,Coccidioidomycosis unspecified,4,Coccidioides,Coccidioides,nonspecific,unspecified,Onygenales,Coccidioides,Nonspecific,nonspecific,nonspecific
+22,ICD-9,1143,Other forms of progressive coccidioidomycosis,4,Coccidioides,Coccidioides,systemic,other,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+23,ICD-9,1140,Primary coccidioidomycosis pulmonary,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,acute
+24,ICD-9,1141,Primary extrapulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,extrathoracic,nonspecific,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+25,ICD-9,1145,Pulmonary coccidioidomycosis unspecified,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,nonspecific
+26,ICD-9,3210,Cryptococcal meningitis,5,Cryptococcus,Cryptococcus,nervous,brain,Tremellales,Cryptococcus,Nonspecific,internal,invasive
+27,ICD-9,1175,Cryptococcosis,5,Cryptococcus,Cryptococcus,nonspecific,nonspecific,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+28,ICD-9,11504,Infection by Histoplasma capsulatum endocarditis,6,Histoplasma,Histoplasma capsulatum,cardiovascular,heart,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+29,ICD-9,11501,Infection by Histoplasma capsulatum meningitis,6,Histoplasma,Histoplasma capsulatum,nervous,brain,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+30,ICD-9,11509,Infection by Histoplasma capsulatum other,6,Histoplasma,Histoplasma capsulatum,nonspecific,other,Onygenales,Histoplasma,Histoplasma capsulatum,nonspecific,unspecified
+31,ICD-9,11503,Infection by Histoplasma capsulatum pericarditis,6,Histoplasma,Histoplasma capsulatum,cardiovascular,heart,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+32,ICD-9,11505,Infection by Histoplasma capsulatum pneumonia,6,Histoplasma,Histoplasma capsulatum,respiratory,lungs,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+33,ICD-9,11502,Infection by Histoplasma capsulatum retinitis,6,Histoplasma,Histoplasma capsulatum,nervous,eye,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+34,ICD-9,11500,Infection by Histoplasma capsulatum without mention of manifestation,6,Histoplasma,Histoplasma capsulatum,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasma capsulatum,nonspecific,unspecified
+35,ICD-9,11514,Infection by Histoplasma duboisii endocarditis,6,Histoplasma,Histoplasma duboisii,cardiovascular,heart,Onygenales,Histoplasma,Histoplasma duboisii,internal,nonspecific
+36,ICD-9,11511,Infection by Histoplasma duboisii meningitis,6,Histoplasma,Histoplasma duboisii,nervous,brain,Onygenales,Histoplasma,Histoplasma duboisii,internal,nonspecific
+37,ICD-9,11519,Infection by Histoplasma duboisii other,6,Histoplasma,Histoplasma duboisii,nonspecific,other,Onygenales,Histoplasma,Histoplasma duboisii,nonspecific,nonspecific
+38,ICD-9,11513,Infection by Histoplasma duboisii pericarditis,6,Histoplasma,Histoplasma duboisii,cardiovascular,heart,Onygenales,Histoplasma,Histoplasma duboisii,internal,nonspecific
+39,ICD-9,11515,Infection by Histoplasma duboisii pneumonia,6,Histoplasma,Histoplasma duboisii,respiratory,lungs,Onygenales,Histoplasma,Histoplasma duboisii,internal,nonspecific
+40,ICD-9,11512,Infection by Histoplasma duboisii retinitis,6,Histoplasma,Histoplasma duboisii,nervous,eye,Onygenales,Histoplasma,Histoplasma duboisii,internal,nonspecific
+41,ICD-9,11510,Infection by Histoplasma duboisii without mention of manifestation,6,Histoplasma,Histoplasma duboisii,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasma duboisii,nonspecific,unspecified
+42,ICD-9,11594,Histoplasmosis unspecified endocarditis,6,Histoplasma,Histoplasma,cardiovascular,heart,Onygenales,Histoplasma,Histoplasmosis unspecified,internal,nonspecific
+43,ICD-9,11591,Histoplasmosis unspecified meningitis,6,Histoplasma,Histoplasma,nervous,brain,Onygenales,Histoplasma,Histoplasmosis unspecified,internal,nonspecific
+44,ICD-9,11599,Histoplasmosis unspecified other,6,Histoplasma,Histoplasma,nonspecific,other,Onygenales,Histoplasma,Histoplasmosis unspecified,nonspecific,unspecified
+45,ICD-9,11593,Histoplasmosis unspecified pericarditis,6,Histoplasma,Histoplasma,cardiovascular,heart,Onygenales,Histoplasma,Histoplasmosis unspecified,internal,nonspecific
+46,ICD-9,11595,Histoplasmosis unspecified pneumonia,6,Histoplasma,Histoplasma,respiratory,lungs,Onygenales,Histoplasma,Histoplasmosis unspecified,internal,nonspecific
+47,ICD-9,11592,Histoplasmosis unspecified retinitis,6,Histoplasma,Histoplasma,nervous,eye,Onygenales,Histoplasma,Histoplasmosis unspecified,internal,nonspecific
+48,ICD-9,11590,Histoplasmosis unspecified without mention of manifestation,6,Histoplasma,Histoplasma,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasmosis unspecified,nonspecific,unspecified
+49,ICD-9,1162,Lobomycosis,11,Other Fungus-specific Mycoses,Lacazia,nonspecific,nonspecific,Onygenales,Lacazia,Nonspecific,nonspecific,nonspecific
+50,ICD-9,1110,Pityriasis versicolor,10,Dermatomycoses,Malassezia,integumentary,skin,Malasseziales,Malassezia,Nonspecific,external,nonspecific
+51,ICD-9,1177,Zygomycosis Phycomycosis Mucormycosis,7,Mucorales,Mucorales,nonspecific,nonspecific,Mucorales Entomophthorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea Conidiobolus Basidiobolus,Nonspecific,nonspecific,nonspecific
+52,ICD-9,71167,Arthropathy associated with mycoses ankle and foot,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,ankle foot,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+53,ICD-9,71163,Arthropathy associated with mycoses forearm,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,forearm,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+54,ICD-9,71164,Arthropathy associated with mycoses hand,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,hand,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+55,ICD-9,71169,Arthropathy associated with mycoses involving multiple sites,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,joint,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+56,ICD-9,71166,Arthropathy associated with mycoses lower leg,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,lower leg,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+57,ICD-9,71168,Arthropathy associated with mycoses other specified sites,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,joint,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+58,ICD-9,71165,Arthropathy associated with mycoses pelvic region and thigh,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,pelvis thigh,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+59,ICD-9,71161,Arthropathy associated with mycoses shoulder region,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,shoulder,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+60,ICD-9,71160,Arthropathy associated with mycoses site unspecified,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,joint,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+61,ICD-9,71162,Arthropathy associated with mycoses upper arm,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,upper arm,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+62,ICD-9,1113,Black piedra,10,Dermatomycoses,Nondermatophyte Pigmented,integumentary,hair,Capnodiales,Nonspecific,Nonspecific,external,nonspecific
+63,ICD-9,1172,Chromoblastomycosis,12,General Mycoses,Pigmented Fungi,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+64,ICD-9,38015,Chronic mycotic otitis externa,12,General Mycoses,Nonspecific Otomycoses,nervous,ear,Nonspecific,Nonspecific,Nonspecific,external,chronic
+65,ICD-9,1106,Deep seated dermatophytosis,10,Dermatomycoses,Dermatophyte,integumentary,other,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+66,ICD-9,1119,Dermatomycosis unspecified,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,unspecified,Nonspecific,Nonspecific,Nonspecific,external,unspecified
+67,ICD-9,1104,Dermatophytosis of foot,10,Dermatomycoses,Dermatophyte,integumentary,foot,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+68,ICD-9,1103,Dermatophytosis of groin and perianal area,10,Dermatomycoses,Dermatophyte,integumentary,genitourinary,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+69,ICD-9,1102,Dermatophytosis of hand,10,Dermatomycoses,Dermatophyte,integumentary,hand,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+70,ICD-9,1101,Dermatophytosis of nail,10,Dermatomycoses,Dermatophyte,integumentary,nail,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+71,ICD-9,1108,Dermatophytosis of other specified sites,10,Dermatomycoses,Dermatophyte,integumentary,other,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+72,ICD-9,1100,Dermatophytosis of scalp and beard,10,Dermatomycoses,Dermatophyte,integumentary,head,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+73,ICD-9,1105,Dermatophytosis of the body,10,Dermatomycoses,Dermatophyte,integumentary,body,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+74,ICD-9,1109,Dermatophytosis of unspecified site,10,Dermatomycoses,Dermatophyte,integumentary,unspecified,Onygenales,Nonspecific,unspecified,external,unspecified
+75,ICD-9,4950,Farmers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+76,ICD-9,4952,Bird fanciers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+77,ICD-9,1178,Infection by dematiacious fungi Phaehyphomycosis,12,General Mycoses,Pigmented Fungi,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+78,ICD-9,394,Madura foot,10,Dermatomycoses,Nondermatophyte,integumentary,foot,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+79,ICD-9,4954,Malt workers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+80,ICD-9,4956,Maple bark strippers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+81,ICD-9,3211,Meningitis in other fungal diseases,12,General Mycoses,Nonspecific Neuromycoses,nervous,brain,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+82,ICD-9,4955,Mushroom workers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+83,ICD-9,37005,Mycotic corneal ulcer,12,General Mycoses,Nonspecific Oculomycoses,nervous,eye,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+84,ICD-9,1174,Mycotic mycetomas,10,Dermatomycoses,Nondermatophyte,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+85,ICD-9,118,Opportunistic mycoses,12,General Mycoses,Nonspecific,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,opportunistic
+86,ICD-9,1179,Other and unspecified mycoses,12,General Mycoses,Nonspecific,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+87,ICD-9,1118,Other specified dermatomycoses,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,other,Nonspecific,Nonspecific,Nonspecific,external,noninvasive
+88,ICD-9,4847,Pneumonia in other systemic mycoses,12,General Mycoses,Nonspecific Pneumomycoses,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+89,ICD-9,4953,Suberosis,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+90,ICD-9,1112,Tinea blanca,10,Dermatomycoses,Nondermatophyte,integumentary,hair,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+91,ICD-9,1111,Tinea nigra,10,Dermatomycoses,Dermatophyte Pigmented,integumentary,skin,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+92,ICD-9,1161,Paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,nonspecific,nonspecific,Onygenales,Paracoccidioides,Nonspecific,nonspecific,nonspecific
+93,ICD-9,1363,Pneumocystosis,11,Other Fungus-specific Mycoses,Pneumocystis,nonspecific,nonspecific,Pneumocystidales,Pneumocystis,Nonspecific,nonspecific,nonspecific
+94,ICD-9,1171,Sporotrichosis,9,Sporothrix,Sporothrix,nonspecific,nonspecific,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+95,ICD-10,B482,Allescheriasis,11,Other Fungus-specific Mycoses,Scedosporium,nonspecific,nonspecific,Microascales Onygenales,Scedosporium Pseudallescheria Allescheria,Nonspecific,nonspecific,nonspecific
+96,ICD-10,B4481,Allergic bronchopulmonary aspergillosis,1,Aspergillus,Aspergillus,immune,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+97,ICD-10,B449,Aspergillosis unspecified,1,Aspergillus,Aspergillus,nonspecific,unspecified,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+98,ICD-10,B447,Disseminated aspergillosis,1,Aspergillus,Aspergillus,systemic,disseminated,Eurotiales,Aspergillus,Nonspecific,nonspecific,invasive
+99,ICD-10,B440,Invasive pulmonary aspergillosis,1,Aspergillus,Aspergillus,respiratory,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+100,ICD-10,B4489,Other forms of aspergillosis,1,Aspergillus,Aspergillus,nonspecific,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+101,ICD-10,B441,Other pulmonary aspergillosis,1,Aspergillus,Aspergillus,respiratory,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+102,ICD-10,B442,Tonsillar aspergillosis,1,Aspergillus,Aspergillus,lymphatic,tonsils,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+103,ICD-10,B400,Acute pulmonary blastomycosis,2,Blastomyces,Blastomyces,respiratory,lungs,Onygenales,Blastomyces,Nonspecific,internal,acute
+104,ICD-10,B409,Blastomycosis unspecified,2,Blastomyces,Blastomyces,nonspecific,nonspecific,Onygenales,Blastomyces,Nonspecific,nonspecific,nonspecific
+105,ICD-10,B4081,Blastomycotic meningoencephalitis,2,Blastomyces,Blastomyces,nervous,brain,Onygenales,Blastomyces,Nonspecific,internal,nonspecific
+106,ICD-10,B401,Chronic pulmonary blastomycosis,2,Blastomyces,Blastomyces,respiratory,lungs,Onygenales,Blastomyces,Nonspecific,internal,chronic
+107,ICD-10,B403,Cutaneous blastomycosis,2,Blastomyces,Blastomyces,integumentary,skin,Onygenales,Blastomyces,Nonspecific,external,nonspecific
+108,ICD-10,B407,Disseminated blastomycosis,2,Blastomyces,Blastomyces,systemic,disseminated,Onygenales,Blastomyces,Nonspecific,nonspecific,invasive
+109,ICD-10,B4089,Other forms of blastomycosis,2,Blastomyces,Blastomyces,nonspecific,nonspecific,Onygenales,Blastomyces,Nonspecific,nonspecific,nonspecific
+110,ICD-10,B402,Pulmonary blastomycosis unspecified,2,Blastomyces,Blastomyces,respiratory,lungs,Onygenales,Blastomyces,Nonspecific,internal,nonspecific
+111,ICD-10,B3731,Acute candidiasis of vulva and vagina,3,Candida,Candida,genitourinary,vulva vagina,Saccharomycetales,Candida,Nonspecific,nonspecific,acute
+112,ICD-10,B3742,Candidal balanitis,3,Candida,Candida,genitourinary,penis,Saccharomycetales,Candida,Nonspecific,external,noninvasive
+113,ICD-10,B3783,Candidal cheilitis,3,Candida,Candida,integumentary,mouth,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+114,ICD-10,B3741,Candidal cystitis and urethritis,3,Candida,Candida,renal,urinary,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+115,ICD-10,B376,Candidal endocarditis,3,Candida,Candida,cardiovascular,heart,Saccharomycetales,Candida,Nonspecific,nonspecific,invasive
+116,ICD-10,B3782,Candidal enteritis,3,Candida,Candida,digestive,gastrointestinal,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+117,ICD-10,B3781,Candidal esophagitis,3,Candida,Candida,digestive,esophagus,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+118,ICD-10,B375,Candidal meningitis,3,Candida,Candida,nervous,brain,Saccharomycetales,Candida,Nonspecific,internal,invasive
+119,ICD-10,B3784,Candidal otitis externa,3,Candida,Candida,nervous,ear,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+120,ICD-10,B377,Candidal sepsis,3,Candida,Candida,systemic,blood,Saccharomycetales,Candida,Nonspecific,internal,invasive
+121,ICD-10,B370,Candidal stomatitis,3,Candida,Candida,digestive,mouth,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+122,ICD-10,B372,Candidiasis of skin and nail,3,Candida,Candida,integumentary,skin nails,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+123,ICD-10,B373,Candidiasis of vulva and vagina,3,Candida,Candida,genitourinary,vulva vagina,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+124,ICD-10,B379,Candidiasis unspecified,3,Candida,Candida,nonspecific,unspecified,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+125,ICD-10,B3732,Chronic candidiasis of vulva and vagina,3,Candida,Candida,genitourinary,vulva vagina,Saccharomycetales,Candida,Nonspecific,nonspecific,chronic
+126,ICD-10,P375,Neonatal candidiasis,3,Candida,Candida,pediatric,nonspecific,Saccharomycetales,Candida,Nonspecific,nonspecific,neonatal
+127,ICD-10,B3789,Other sites of candidiasis,3,Candida,Candida,nonspecific,other,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+128,ICD-10,B3749,Other urogenital candidiasis,3,Candida,Candida,genitourinary,other,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+129,ICD-10,B371,Pulmonary candidiasis,3,Candida,Candida,respiratory,lungs,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+130,ICD-10,B380,Acute pulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,acute
+131,ICD-10,B381,Chronic pulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,chronic
+132,ICD-10,B384,Coccidioidomycosis meningitis,4,Coccidioides,Coccidioides,nervous,brain,Onygenales,Coccidioides,Nonspecific,internal,invasive
+133,ICD-10,B389,Coccidioidomycosis unspecified,4,Coccidioides,Coccidioides,nonspecific,unspecified,Onygenales,Coccidioides,Nonspecific,nonspecific,nonspecific
+134,ICD-10,B383,Cutaneous coccidioidomycosis,4,Coccidioides,Coccidioides,integumentary,skin,Onygenales,Coccidioides,Nonspecific,external,nonspecific
+135,ICD-10,B387,Disseminated coccidioidomycosis,4,Coccidioides,Coccidioides,systemic,disseminated,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+136,ICD-10,B3889,Other forms of coccidioidomycosis,4,Coccidioides,Coccidioides,nonspecific,other,Onygenales,Coccidioides,Nonspecific,nonspecific,nonspecific
+137,ICD-10,B3881,Prostatic coccidioidomycosis,4,Coccidioides,Coccidioides,genitourinary,prostate,Onygenales,Coccidioides,Nonspecific,internal,localized
+138,ICD-10,B382,Pulmonary coccidioidomycosis unspecified,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,nonspecific
+139,ICD-10,B451,Cerebral cryptococcosis,5,Cryptococcus,Cryptococcus,nervous,brain,Tremellales,Cryptococcus,Nonspecific,internal,invasive
+140,ICD-10,B459,Cryptococcosis unspecified,5,Cryptococcus,Cryptococcus,nonspecific,unspecified,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+141,ICD-10,B452,Cutaneous cryptococcosis,5,Cryptococcus,Cryptococcus,integumentary,skin,Tremellales,Cryptococcus,Nonspecific,external,nonspecific
+142,ICD-10,B457,Disseminated cryptococcosis,5,Cryptococcus,Cryptococcus,systemic,disseminated,Tremellales,Cryptococcus,Nonspecific,nonspecific,invasive
+143,ICD-10,B453,Osseous cryptococcosis,5,Cryptococcus,Cryptococcus,musculoskeletal,bone,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+144,ICD-10,B458,Other forms of cryptococcosis,5,Cryptococcus,Cryptococcus,nonspecific,other,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+145,ICD-10,B450,Pulmonary cryptococcosis,5,Cryptococcus,Cryptococcus,respiratory,lungs,Tremellales,Cryptococcus,Nonspecific,internal,nonspecific
+146,ICD-10,B483,Geotrichosis,11,Other Fungus-specific Mycoses,Geotrichum/Magnusiomyces,nonspecific,nonspecific,Saccharomycetales,Geotrichum/Magnusiomyces,Nonspecific,nonspecific,nonspecific
+147,ICD-10,B390,Acute pulmonary histoplasmosis capsulati,6,Histoplasma,Histoplasma capsulatum,respiratory,lungs,Onygenales,Histoplasma,Histoplasma capsulatum,internal,acute
+148,ICD-10,B391,Chronic pulmonary histoplasmosis capsulati,6,Histoplasma,Histoplasma capsulatum,respiratory,lungs,Onygenales,Histoplasma,Histoplasma capsulatum,internal,chronic
+149,ICD-10,B393,Disseminated histoplasmosis capsulati,6,Histoplasma,Histoplasma capsulatum,systemic,disseminated,Onygenales,Histoplasma,Histoplasma capsulatum,nonspecific,invasive
+150,ICD-10,B394,Histoplasmosis capsulati unspecified,6,Histoplasma,Histoplasma capsulatum,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasma capsulatum,nonspecific,unspecified
+151,ICD-10,B392,Pulmonary histoplasmosis capsulati unspecified,6,Histoplasma,Histoplasma capsulatum,respiratory,lungs,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+152,ICD-10,B395,Histoplasmosis duboisii,6,Histoplasma,Histoplasma duboisii,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasma duboisii,nonspecific,unspecified
+153,ICD-10,B399,Histoplasmosis unspecified,6,Histoplasma,Histoplasma,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasmosis unspecified,nonspecific,unspecified
+154,ICD-10,B480,Lobomycosis,11,Other Fungus-specific Mycoses,Lacazia,nonspecific,nonspecific,Onygenales,Lacazia,Nonspecific,nonspecific,nonspecific
+155,ICD-10,B360,Pityriasis versicolor,10,Dermatomycoses,Malassezia,integumentary,skin,Malasseziales,Malassezia,Nonspecific,external,nonspecific
+156,ICD-10,B463,Cutaneous mucormycosis,7,Mucorales,Mucorales,integumentary,skin nails hair,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,external,nonspecific
+157,ICD-10,B464,Disseminated mucormycosis,7,Mucorales,Mucorales,systemic,disseminated,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,nonspecific,invasive
+158,ICD-10,B462,Gastrointestinal mucormycosis,7,Mucorales,Mucorales,digestive,gastrointestinal,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,internal,nonspecific
+159,ICD-10,B465,Mucormycosis unspecified,7,Mucorales,Mucorales,nonspecific,nonspecific,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,nonspecific,nonspecific
+160,ICD-10,B460,Pulmonary mucormycosis,7,Mucorales,Mucorales,respiratory,lungs,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,internal,nonspecific
+161,ICD-10,B461,Rhinocerebral mucormycosis,7,Mucorales,Mucorales,nervous,brain,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,internal,nonspecific
+162,ICD-10,B468,Other zygomycoses,7,Mucorales,Mucorales,nonspecific,nonspecific,Mucorales Entomophthorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea Conidiobolus Basidiobolus,Nonspecific,nonspecific,nonspecific
+163,ICD-10,B469,Zygomycosis unspecified,7,Mucorales,Mucorales,nonspecific,nonspecific,Mucorales Entomophthorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea Conidiobolus Basidiobolus,Nonspecific,nonspecific,nonspecific
+164,ICD-10,J677,Air conditioner and humidifier lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+165,ICD-10,J672,Bird fanciers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+166,ICD-10,B363,Black piedra,10,Dermatomycoses,Nondermatophyte Pigmented,integumentary,hair,Capnodiales,Nonspecific,Nonspecific,external,nonspecific
+167,ICD-10,B439,Chromomycosis unspecified,12,General Mycoses,Pigmented Fungi,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+168,ICD-10,B430,Cutaneous chromomycosis,10,Dermatomycoses,Nondermatophyte,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,external,nonspecific
+169,ICD-10,B359,Dermatophytosis unspecified,10,Dermatomycoses,Dermatophyte,integumentary,unspecified,Onygenales,Nonspecific,unspecified,external,unspecified
+170,ICD-10,B470,Eumycetoma,10,Dermatomycoses,Nondermatophyte,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+171,ICD-10,J670,Farmers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+172,ICD-10,J674,Maltworkers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+173,ICD-10,J676,Maple bark strippers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+174,ICD-10,J675,Mushroom workers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+175,ICD-10,B479,Mycetoma unspecified,10,Dermatomycoses,Nondermatophyte,integumentary,unspecified,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+176,ICD-10,H16063,Mycotic corneal ulcer bilateral,12,General Mycoses,Nonspecific Oculomycoses,nervous,eye,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+177,ICD-10,H16062,Mycotic corneal ulcer left eye,12,General Mycoses,Nonspecific Oculomycoses,nervous,left eye,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+178,ICD-10,H16061,Mycotic corneal ulcer right eye,12,General Mycoses,Nonspecific Oculomycoses,nervous,right eye,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+179,ICD-10,H16069,Mycotic corneal ulcer unspecified eye,12,General Mycoses,Nonspecific Oculomycoses,nervous,eye,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+180,ICD-10,B358,Other dermatophytoses,10,Dermatomycoses,Dermatophyte,integumentary,other,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+181,ICD-10,B438,Other forms of chromomycosis,12,General Mycoses,Pigmented Fungi,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+182,ICD-10,B488,Other specified mycoses,12,General Mycoses,Nonspecific,nonspecific,other,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+183,ICD-10,B368,Other specified superficial mycoses,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,other,Nonspecific,Nonspecific,Nonspecific,external,noninvasive
+184,ICD-10,B431,Pheomycotic brain abscess,12,General Mycoses,Pigmented Fungi,nervous,brain,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+185,ICD-10,K63822,Small intestinal fungal overgrowth,12,General Mycoses,Nonspecific,digestive,small intestine,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+186,ICD-10,B432,Subcutaneous pheomycotic abscess and cyst,10,Dermatomycoses,Nondermatophyte,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+187,ICD-10,J673,Suberosis,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+188,ICD-10,B369,Superficial mycosis unspecified,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,unspecified,Nonspecific,Nonspecific,Nonspecific,external,unspecified
+189,ICD-10,B350,Tinea barbae and tinea capitis,10,Dermatomycoses,Dermatophyte,integumentary,head,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+190,ICD-10,B354,Tinea corporis,10,Dermatomycoses,Dermatophyte,integumentary,body,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+191,ICD-10,B356,Tinea cruris,10,Dermatomycoses,Dermatophyte,integumentary,genitourinary,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+192,ICD-10,B355,Tinea imbricata,10,Dermatomycoses,Dermatophyte,integumentary,body,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+193,ICD-10,B352,Tinea manuum,10,Dermatomycoses,Dermatophyte,integumentary,hand,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+194,ICD-10,B361,Tinea nigra,10,Dermatomycoses,Dermatophyte Pigmented,integumentary,skin,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+195,ICD-10,B353,Tinea pedis,10,Dermatomycoses,Dermatophyte,integumentary,foot,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+196,ICD-10,B351,Tinea unguium,10,Dermatomycoses,Dermatophyte,integumentary,nail,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+197,ICD-10,B49,Unspecified mycosis,12,General Mycoses,Nonspecific,nonspecific,unspecified,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+198,ICD-10,B362,White piedra,10,Dermatomycoses,Nondermatophyte,integumentary,hair,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+199,ICD-10,B417,Disseminated paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,systemic,disseminated,Onygenales,Paracoccidioides,Nonspecific,nonspecific,invasive
+200,ICD-10,B418,Other forms of paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,nonspecific,nonspecific,Onygenales,Paracoccidioides,Nonspecific,nonspecific,nonspecific
+201,ICD-10,B419,Paracoccidioidomycosis unspecified,8,Paracoccidioides,Paracoccidioides,nonspecific,nonspecific,Onygenales,Paracoccidioides,Nonspecific,nonspecific,nonspecific
+202,ICD-10,B410,Pulmonary paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,respiratory,lungs,Onygenales,Paracoccidioides,Nonspecific,internal,nonspecific
+203,ICD-10,B484,Penicillosis,11,Other Fungus-specific Mycoses,Penicillium/Talaromyces,nonspecific,nonspecific,Eurotiales,Penicillium Talaromyces,Nonspecific,nonspecific,nonspecific
+204,ICD-10,B59,Pneumocystosis,11,Other Fungus-specific Mycoses,Pneumocystis,nonspecific,nonspecific,Pneumocystidales,Pneumocystis,Nonspecific,nonspecific,nonspecific
+205,ICD-10,B4281,Cerebral sporotrichosis,9,Sporothrix,Sporothrix,nervous,brain,Ophiostomatales,Sporothrix,Nonspecific,internal,invasive
+206,ICD-10,B427,Disseminated sporotrichosis,9,Sporothrix,Sporothrix,systemic,disseminated,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,invasive
+207,ICD-10,B421,Lymphocutaneous sporotrichosis,9,Sporothrix,Sporothrix,lymphatic,lymphatic,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+208,ICD-10,B4289,Other forms of sporotrichosis,9,Sporothrix,Sporothrix,nonspecific,other,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+209,ICD-10,B420,Pulmonary sporotrichosis,9,Sporothrix,Sporothrix,respiratory,lungs,Ophiostomatales,Sporothrix,Nonspecific,internal,nonspecific
+210,ICD-10,B4282,Sporotrichosis arthritis,9,Sporothrix,Sporothrix,musculoskeletal,joint,Ophiostomatales,Sporothrix,Nonspecific,internal,invasive
+211,ICD-10,B429,Sporotrichosis unspecified,9,Sporothrix,Sporothrix,nonspecific,unspecified,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+212,ICD-11,1F2H,Scedosporiosis,11,Other Fungus-specific Mycoses,Scedosporium,nonspecific,nonspecific,Microascales Onygenales,Scedosporium Pseudallescheria Allescheria,Nonspecific,nonspecific,nonspecific
+213,ICD-11,1F20,Aspergillosis,1,Aspergillus,Aspergillus,nonspecific,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+214,ICD-11,1F20Z,Aspergillosis unspecified,1,Aspergillus,Aspergillus,nonspecific,unspecified,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+215,ICD-11,1F2014,Aspergillus bronchitis,1,Aspergillus,Aspergillus,respiratory,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+216,ICD-11,CA824,Aspergillus induced allergic or hypersensitivity conditions,1,Aspergillus,Aspergillus,immune,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+217,ICD-11,1F2010,Aspergillus otomycosis,1,Aspergillus,Aspergillus,nervous,ear,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+218,ICD-11,1F2011,Chronic aspergillosis of the paranasal sinuses,1,Aspergillus,Aspergillus,respiratory,upper respiratory,Eurotiales,Aspergillus,Nonspecific,internal,chronic
+219,ICD-11,1F2012,Chronic pulmonary aspergillosis,1,Aspergillus,Aspergillus,respiratory,lungs,Eurotiales,Aspergillus,Nonspecific,internal,chronic
+220,ICD-11,1F2002,Disseminated aspergillosis,1,Aspergillus,Aspergillus,systemic,disseminated,Eurotiales,Aspergillus,Nonspecific,nonspecific,invasive
+221,ICD-11,1F200,Invasive aspergillosis,1,Aspergillus,Aspergillus,nonspecific,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,invasive
+222,ICD-11,1F200Y,Invasive aspergillosis of other specified site,1,Aspergillus,Aspergillus,nonspecific,other,Eurotiales,Aspergillus,Nonspecific,nonspecific,invasive
+223,ICD-11,1F2000,Invasive aspergillosis of the digestive tract,1,Aspergillus,Aspergillus,digestive,gastrointestinal,Eurotiales,Aspergillus,Nonspecific,internal,invasive
+224,ICD-11,1F200Z,Invasive aspergillosis unspecified,1,Aspergillus,Aspergillus,nonspecific,unspecified,Eurotiales,Aspergillus,Nonspecific,nonspecific,invasive
+225,ICD-11,1F2001,Invasive cerebral aspergillosis,1,Aspergillus,Aspergillus,nervous,brain,Eurotiales,Aspergillus,Nonspecific,internal,invasive
+226,ICD-11,KA631,Neonatal aspergillosis,1,Aspergillus,Aspergillus,pediatric,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,nonspecific
+227,ICD-11,1F201,Noninvasive aspergillosis,1,Aspergillus,Aspergillus,nonspecific,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,noninvasive
+228,ICD-11,1F201Z,Noninvasive aspergillosis unspecified,1,Aspergillus,Aspergillus,nonspecific,unspecified,Eurotiales,Aspergillus,Nonspecific,nonspecific,noninvasive
+229,ICD-11,1F2015,Obstructing aspergillus tracheobronchitis,1,Aspergillus,Aspergillus,respiratory,lungs,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+230,ICD-11,1F201Y,Other specified noninvasive aspergillosis,1,Aspergillus,Aspergillus,nonspecific,nonspecific,Eurotiales,Aspergillus,Nonspecific,nonspecific,noninvasive
+231,ICD-11,1F2013,Tonsillar aspergillosis,1,Aspergillus,Aspergillus,lymphatic,tonsils,Eurotiales,Aspergillus,Nonspecific,internal,nonspecific
+232,ICD-11,1F22,Blastomycosis,2,Blastomyces,Blastomyces,nonspecific,nonspecific,Onygenales,Blastomyces,Nonspecific,nonspecific,nonspecific
+233,ICD-11,1F2311,Candida balanoposthitis,3,Candida,Candida,genitourinary,penis,Saccharomycetales,Candida,Nonspecific,external,noninvasive
+234,ICD-11,1F2330,Candida meningitis,3,Candida,Candida,nervous,brain,Saccharomycetales,Candida,Nonspecific,internal,invasive
+235,ICD-11,1F2316,Candida otomycosis,3,Candida,Candida,nervous,ear,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+236,ICD-11,1F23,Candidosis,3,Candida,Candida,nonspecific,nonspecific,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+237,ICD-11,1F232,Candidosis of gastrointestinal tract,3,Candida,Candida,digestive,gastrointestinal,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+238,ICD-11,1F230,Candidosis of lips or oral mucous membranes,3,Candida,Candida,digestive,mouth,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+239,ICD-11,1F2313,Candidosis of nail or paronychium,3,Candida,Candida,integumentary,skin nails,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+240,ICD-11,1F231Y,Candidosis of skin or mucous membrane of other specified site,3,Candida,Candida,integumentary,other,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+241,ICD-11,1F231,Candidosis of skin or mucous membranes,3,Candida,Candida,integumentary,skin mucous membrane,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+242,ICD-11,1F231Z,Candidosis of skin or mucous membranes unspecified,3,Candida,Candida,integumentary,unspecified,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+243,ICD-11,1F23Z,Candidosis unspecified,3,Candida,Candida,nonspecific,unspecified,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+244,ICD-11,1F2314,Chronic mucocutaneous candidosis,3,Candida,Candida,integumentary,skin mucous membrane,Saccharomycetales,Candida,Nonspecific,nonspecific,chronic
+245,ICD-11,1F2315,Disseminated cutaneous candidosis,3,Candida,Candida,integumentary,disseminated,Saccharomycetales,Candida,Nonspecific,external,invasive
+246,ICD-11,1F2312,Flexural or intertriginous candidosis,3,Candida,Candida,integumentary,skin,Saccharomycetales,Candida,Nonspecific,external,nonspecific
+247,ICD-11,KA632,Neonatal candidosis,3,Candida,Candida,pediatric,nonspecific,Saccharomycetales,Candida,Nonspecific,nonspecific,neonatal
+248,ICD-11,1F23Y,Other specified candidosis,3,Candida,Candida,nonspecific,other,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+249,ICD-11,1F233Y,Other specified systemic or invasive candidosis,3,Candida,Candida,systemic,other,Saccharomycetales,Candida,Nonspecific,internal,invasive
+250,ICD-11,1F2331,Pulmonary candidosis,3,Candida,Candida,respiratory,lungs,Saccharomycetales,Candida,Nonspecific,internal,nonspecific
+251,ICD-11,1F233,Systemic or invasive candidosis,3,Candida,Candida,systemic,nonspecific,Saccharomycetales,Candida,Nonspecific,internal,invasive
+252,ICD-11,1F233Z,Systemic or invasive candidosis unspecified,3,Candida,Candida,systemic,nonspecific,Saccharomycetales,Candida,Nonspecific,internal,invasive
+253,ICD-11,1F2310,Vulvovaginal candidosis,3,Candida,Candida,genitourinary,vulva vagina,Saccharomycetales,Candida,Nonspecific,nonspecific,nonspecific
+254,ICD-11,1F2500,Acute pulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,acute
+255,ICD-11,1F2501,Chronic pulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,chronic
+256,ICD-11,1F2512,Coccidioides meningitis,4,Coccidioides,Coccidioides,nervous,brain,Onygenales,Coccidioides,Nonspecific,internal,invasive
+257,ICD-11,1F25,Coccidioidomycosis,4,Coccidioides,Coccidioides,nonspecific,nonspecific,Onygenales,Coccidioides,Nonspecific,nonspecific,nonspecific
+258,ICD-11,1F25Z,Coccidioidomycosis unspecified,4,Coccidioides,Coccidioides,nonspecific,unspecified,Onygenales,Coccidioides,Nonspecific,nonspecific,nonspecific
+259,ICD-11,1F2510,Disseminated coccidioidomycosis,4,Coccidioides,Coccidioides,systemic,disseminated,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+260,ICD-11,1F251,Extrathoracic coccidioidomycosis,4,Coccidioides,Coccidioides,extrathoracic,nonspecific,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+261,ICD-11,1F251Z,Extrathoracic coccidioidomycosis unspecified,4,Coccidioides,Coccidioides,extrathoracic,unspecified,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+262,ICD-11,1F251Y,Other specified extrathoracic coccidioidomycosis,4,Coccidioides,Coccidioides,extrathoracic,other,Onygenales,Coccidioides,Nonspecific,nonspecific,invasive
+263,ICD-11,1F2511,Primary cutaneous coccidioidomycosis,4,Coccidioides,Coccidioides,integumentary,skin,Onygenales,Coccidioides,Nonspecific,external,acute
+264,ICD-11,1F250,Pulmonary coccidioidomycosis,4,Coccidioides,Coccidioides,respiratory,lungs,Onygenales,Coccidioides,Nonspecific,internal,nonspecific
+265,ICD-11,1F2710,Meningitis due to Cryptococcus neoformans,5,Cryptococcus,Cryptococcus,nervous,brain,Tremellales,Cryptococcus,Cryptococcus neoformans,internal,invasive
+266,ICD-11,1F271,Cerebral cryptococcosis,5,Cryptococcus,Cryptococcus,nervous,brain,Tremellales,Cryptococcus,Nonspecific,internal,invasive
+267,ICD-11,1F27,Cryptococcosis,5,Cryptococcus,Cryptococcus,nonspecific,nonspecific,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+268,ICD-11,1F27Z,Cryptococcosis unspecified,5,Cryptococcus,Cryptococcus,nonspecific,unspecified,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+269,ICD-11,1F272,Disseminated cryptococcosis,5,Cryptococcus,Cryptococcus,systemic,disseminated,Tremellales,Cryptococcus,Nonspecific,nonspecific,invasive
+270,ICD-11,1F27Y,Other specified cryptococcosis,5,Cryptococcus,Cryptococcus,nonspecific,other,Tremellales,Cryptococcus,Nonspecific,nonspecific,nonspecific
+271,ICD-11,1F270,Pulmonary cryptococcosis,5,Cryptococcus,Cryptococcus,respiratory,lungs,Tremellales,Cryptococcus,Nonspecific,internal,nonspecific
+272,ICD-11,1F2L0,Disseminated adiaspiromycosis,11,Other Fungus-specific Mycoses,Emergomyces,systemic,disseminated,Onygenales,Emergomyces Emmonsia Chrysosporium,Nonspecific,nonspecific,invasive
+273,ICD-11,1F2L,Emmonsiosis,11,Other Fungus-specific Mycoses,Emergomyces,nonspecific,nonspecific,Onygenales,Emergomyces Emmonsia Chrysosporium,Nonspecific,nonspecific,nonspecific
+274,ICD-11,1F2LZ,Emmonsiosis unspecified,11,Other Fungus-specific Mycoses,Emergomyces,nonspecific,nonspecific,Onygenales,Emergomyces Emmonsia Chrysosporium,Nonspecific,nonspecific,nonspecific
+275,ICD-11,1F2LY,Other specified emmonsiosis,11,Other Fungus-specific Mycoses,Emergomyces,nonspecific,nonspecific,Onygenales,Emergomyces Emmonsia Chrysosporium,Nonspecific,nonspecific,nonspecific
+276,ICD-11,1F2L1,Pulmonary adiaspiromycosis,11,Other Fungus-specific Mycoses,Emergomyces,respiratory,lungs,Onygenales,Emergomyces Emmonsia Chrysosporium,Nonspecific,internal,nonspecific
+277,ICD-11,1F2A0,Pulmonary histoplasmosis capsulati,6,Histoplasma,Histoplasma capsulatum,respiratory,lungs,Onygenales,Histoplasma,Histoplasma capsulatum,internal,nonspecific
+278,ICD-11,1F2A1,Histoplasmosis due to Histoplasma duboisii,6,Histoplasma,Histoplasma duboisii,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasma duboisii,nonspecific,unspecified
+279,ICD-11,1F2A,Histoplasmosis,6,Histoplasma,Histoplasma,nonspecific,nonspecific,Onygenales,Histoplasma,Histoplasmosis unspecified,nonspecific,unspecified
+280,ICD-11,1F2AZ,Histoplasmosis unspecified,6,Histoplasma,Histoplasma,nonspecific,unspecified,Onygenales,Histoplasma,Histoplasmosis unspecified,nonspecific,unspecified
+281,ICD-11,1F2AY,Other specified histoplasmosis,6,Histoplasma,Histoplasma,nonspecific,other,Onygenales,Histoplasma,Histoplasmosis unspecified,nonspecific,nonspecific
+282,ICD-11,1F2B,Lobomycosis,11,Other Fungus-specific Mycoses,Lacazia,nonspecific,nonspecific,Onygenales,Lacazia,Nonspecific,nonspecific,nonspecific
+283,ICD-11,1F2D1,Malassezia folliculitis,10,Dermatomycoses,Malassezia,integumentary,hair,Malasseziales,Malassezia,Nonspecific,external,nonspecific
+284,ICD-11,KA630,Malassezia infection in newborn,10,Dermatomycoses,Malassezia,pediatric,nonspecific,Malasseziales,Malassezia,Nonspecific,nonspecific,nonspecific
+285,ICD-11,1F2D0,Pityriasis versicolor,10,Dermatomycoses,Malassezia,integumentary,skin,Malasseziales,Malassezia,Nonspecific,external,nonspecific
+286,ICD-11,1F21,Basidiobolomycosis,7,Mucorales,Mucorales,nonspecific,nonspecific,Entomophthorales,Basidiobolus,Nonspecific,nonspecific,nonspecific
+287,ICD-11,1F26,Conidiobolomycosis,7,Mucorales,Mucorales,nonspecific,nonspecific,Entomophthorales,Conidiobolus,Nonspecific,nonspecific,nonspecific
+288,ICD-11,1F2C,Mucormycosis,7,Mucorales,Mucorales,nonspecific,nonspecific,Mucorales,Apophysomyces Cunninghamella Lichtheimia Absidia Mucor Rhizomucor Rhizopus Saksenaea,Nonspecific,nonspecific,nonspecific
+289,ICD-11,CA707,Air conditioner or humidifier lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+290,ICD-11,CA702,Bird fancier lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+291,ICD-11,1F2D3,Black piedra,10,Dermatomycoses,Nondermatophyte Pigmented,integumentary,hair,Capnodiales,Nonspecific,Nonspecific,external,nonspecific
+292,ICD-11,EA60,Certain skin disorders attributable to fungal infection,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,external,noninvasive
+293,ICD-11,DA000,Cheilitis,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,mouth,Nonspecific,Nonspecific,Nonspecific,external,nonspecific
+294,ICD-11,1F24,Chromoblastomycosis,12,General Mycoses,Pigmented Fungi,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+295,ICD-11,1F28,Dermatophytosis,10,Dermatomycoses,Dermatophyte,integumentary,nonspecific,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+296,ICD-11,1F282,Dermatophytosis of foot,10,Dermatomycoses,Dermatophyte,integumentary,foot,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+297,ICD-11,1F281,Dermatophytosis of nail,10,Dermatomycoses,Dermatophyte,integumentary,nail,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+298,ICD-11,1F280,Dermatophytosis of scalp,10,Dermatomycoses,Dermatophyte,integumentary,head,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+299,ICD-11,1F28Z,Dermatophytosis unspecified,10,Dermatomycoses,Dermatophyte,integumentary,unspecified,Onygenales,Nonspecific,unspecified,external,unspecified
+300,ICD-11,1F285,Disseminated dermatophytosis,10,Dermatomycoses,Dermatophyte,integumentary,disseminated,Onygenales,Nonspecific,Nonspecific,nonspecific,invasive
+301,ICD-11,1F29,Eumycetoma,10,Dermatomycoses,Nondermatophyte,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+302,ICD-11,CA700,Farmer lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+303,ICD-11,MA151,Fungaemia,12,General Mycoses,Nonspecific,systemic,blood,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+304,ICD-11,DA6362,Fungal duodenal ulcer,12,General Mycoses,Nonspecific,digestive,small intestine,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+305,ICD-11,1D001,Fungal encephalitis,12,General Mycoses,Nonspecific Neuromycoses,nervous,brain,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+306,ICD-11,KA63,Fungal infection of fetus or newborn,12,General Mycoses,Nonspecific Pediatric Mycoses,pediatric,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+307,ICD-11,KA63Z,Fungal infection of fetus or newborn unspecified,12,General Mycoses,Nonspecific Pediatric Mycoses,pediatric,unspecified,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+308,ICD-11,FA102,Fungal infection of joint,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,joint,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+309,ICD-11,EA60Z,Fungal infection of the skin unspecified,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,unspecified,Nonspecific,Nonspecific,Nonspecific,external,unspecified
+310,ICD-11,1D0410,Fungal intracranial granuloma,12,General Mycoses,Nonspecific Neuromycoses,nervous,brain,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+311,ICD-11,1D011,Fungal meningitis,12,General Mycoses,Nonspecific Neuromycoses,nervous,brain,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+312,ICD-11,1D022,Fungal myelitis,12,General Mycoses,Nonspecific Neuromycoses,nervous,brain,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+313,ICD-11,DA2511,Fungal oesophageal ulcer,12,General Mycoses,Nonspecific,digestive,esophagus,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+314,ICD-11,CA402,Fungal pneumonia,12,General Mycoses,Nonspecific Pneumomycoses,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+315,ICD-11,CA402Z,Fungal pneumonia unspecified,12,General Mycoses,Nonspecific Pneumomycoses,respiratory,unspecified,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+316,ICD-11,FA122,Fungal postinfectious arthropathies,12,General Mycoses,Nonspecific Arthromycoses,musculoskeletal,joint,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+317,ICD-11,1F283,Genitocrural dermatophytosis,10,Dermatomycoses,Dermatophyte,integumentary,genitourinary,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+318,ICD-11,1F284,Kerion,10,Dermatomycoses,Dermatophyte,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,external,nonspecific
+319,ICD-11,CA704,Malt worker lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+320,ICD-11,CA706,Maple bark strippers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+321,ICD-11,CA705,Mushroom workers lung,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+322,ICD-11,BlockL1-1F2,Mycoses,12,General Mycoses,Nonspecific,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+323,ICD-11,1F2Z,Mycoses unspecified,12,General Mycoses,Nonspecific,nonspecific,unspecified,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+324,ICD-11,EH12,Neonatal fungal infections involving the skin,10,Dermatomycoses,Nonspecific Dermatomycoses,pediatric,skin,Nonspecific,Nonspecific,Nonspecific,external,nonspecific
+325,ICD-11,1F2D,Nondermatophyte superficial dermatomycoses,10,Dermatomycoses,Nondermatophyte,integumentary,skin nails hair,Chaetothyriales Eurotiales Hypocreales Sordariales,Nonspecific,Nonspecific,external,noninvasive
+326,ICD-11,1F2DZ,Nondermatophyte superficial dermatomycoses unspecified,10,Dermatomycoses,Nondermatophyte,integumentary,unspecified,Chaetothyriales Eurotiales Hypocreales Sordariales,Nonspecific,Nonspecific,external,noninvasive
+327,ICD-11,EE121,Onychomycosis,10,Dermatomycoses,Dermatophyte,integumentary,nail,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+328,ICD-11,1F2D5,Onychomycosis due to nondermatophyte mould,10,Dermatomycoses,Nondermatophyte,integumentary,nail,Chaetothyriales Eurotiales Hypocreales Sordariales,Nonspecific,Nonspecific,external,nonspecific
+329,ICD-11,1F28Y,Other specified dermatophytosis,10,Dermatomycoses,Dermatophyte,integumentary,other,Onygenales,Nonspecific,Nonspecific,nonspecific,nonspecific
+330,ICD-11,KA63Y,Other specified fungal infection of fetus or newborn,12,General Mycoses,Nonspecific Pediatric Mycoses,pediatric,other,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+331,ICD-11,CA402Y,Other specified fungal pneumonia,12,General Mycoses,Nonspecific Pneumomycoses,respiratory,other,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+332,ICD-11,1F2Y,Other specified mycoses,12,General Mycoses,Nonspecific,nonspecific,other,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+333,ICD-11,1F2DY,Other specified nondermatophyte superficial dermatomycoses,10,Dermatomycoses,Nondermatophyte,integumentary,skin nails hair,Chaetothyriales Eurotiales Hypocreales Sordariales,Nonspecific,Nonspecific,external,noninvasive
+334,ICD-11,AA03,Otomycosis,12,General Mycoses,Nonspecific Otomycoses,nervous,ear,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+335,ICD-11,1F2F,Phaeohyphomycosis,12,General Mycoses,Pigmented Fungi,nonspecific,nonspecific,Nonspecific,Nonspecific,Nonspecific,nonspecific,nonspecific
+336,ICD-11,DA042,Sialoadenitis,12,General Mycoses,Nonspecific,digestive,salivary glands,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+337,ICD-11,EA60Y,Skin involvement in other specified fungal infection,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,external,nonspecific
+338,ICD-11,EA600,Subcutaneous mycoses,10,Dermatomycoses,Nonspecific Dermatomycoses,integumentary,skin,Nonspecific,Nonspecific,Nonspecific,internal,invasive
+339,ICD-11,CA703,Suberosis,12,General Mycoses,Occupation-related ,respiratory,lungs,Nonspecific,Nonspecific,Nonspecific,internal,nonspecific
+340,ICD-11,EA601,Systemic mycoses affecting skin,10,Dermatomycoses,Nonspecific Dermatomycoses,systemic,skin,Nonspecific,Nonspecific,Nonspecific,nonspecific,invasive
+341,ICD-11,1F2D4,Tinea nigra,10,Dermatomycoses,Dermatophyte Pigmented,integumentary,skin,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+342,ICD-11,1F2D2,White piedra,10,Dermatomycoses,Nondermatophyte,integumentary,hair,Onygenales,Nonspecific,Nonspecific,external,nonspecific
+343,ICD-11,1F2E1,Disseminated paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,systemic,disseminated,Onygenales,Paracoccidioides,Nonspecific,nonspecific,invasive
+344,ICD-11,1F2EY,Other specified paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,nonspecific,nonspecific,Onygenales,Paracoccidioides,Nonspecific,nonspecific,nonspecific
+345,ICD-11,1F2E,Paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,nonspecific,nonspecific,Onygenales,Paracoccidioides,Nonspecific,nonspecific,nonspecific
+346,ICD-11,1F2EZ,Paracoccidioidomycosis unspecified,8,Paracoccidioides,Paracoccidioides,nonspecific,nonspecific,Onygenales,Paracoccidioides,Nonspecific,nonspecific,nonspecific
+347,ICD-11,1F2E0,Pulmonary paracoccidioidomycosis,8,Paracoccidioides,Paracoccidioides,respiratory,lungs,Onygenales,Paracoccidioides,Nonspecific,internal,nonspecific
+348,ICD-11,1F2K,Talaromycosis,11,Other Fungus-specific Mycoses,Penicillium/Talaromyces,nonspecific,nonspecific,Eurotiales,Penicillium Talaromyces,Nonspecific,nonspecific,nonspecific
+349,ICD-11,1F2G,Pneumocystosis,11,Other Fungus-specific Mycoses,Pneumocystis,nonspecific,nonspecific,Pneumocystidales,Pneumocystis,Nonspecific,nonspecific,nonspecific
+350,ICD-11,1F2GZ,Pneumocystosis unspecified,11,Other Fungus-specific Mycoses,Pneumocystis,nonspecific,nonspecific,Pneumocystidales,Pneumocystis,Nonspecific,nonspecific,nonspecific
+351,ICD-11,CA4020,Pneumonia due to pneumocystis,11,Other Fungus-specific Mycoses,Pneumocystis,respiratory,lungs,Pneumocystidales,Pneumocystis,Nonspecific,internal,nonspecific
+352,ICD-11,1F2G0,Pulmonary pneumocystosis,11,Other Fungus-specific Mycoses,Pneumocystis,respiratory,lungs,Pneumocystidales,Pneumocystis,Nonspecific,internal,nonspecific
+353,ICD-11,1F2J3,Disseminated sporotrichosis,9,Sporothrix,Sporothrix,systemic,disseminated,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,invasive
+354,ICD-11,1F2J1,Fixed cutaneous sporotrichosis,9,Sporothrix,Sporothrix,integumentary,skin,Ophiostomatales,Sporothrix,Nonspecific,external,noninvasive
+355,ICD-11,1F2J0,Lymphocutaneous sporotrichosis,9,Sporothrix,Sporothrix,lymphatic,lymphatic,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+356,ICD-11,1F2JY,Other specified sporotrichosis,9,Sporothrix,Sporothrix,nonspecific,other,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+357,ICD-11,1F2J2,Pulmonary sporotrichosis,9,Sporothrix,Sporothrix,respiratory,lungs,Ophiostomatales,Sporothrix,Nonspecific,internal,nonspecific
+358,ICD-11,1F2J,Sporotrichosis,9,Sporothrix,Sporothrix,nonspecific,nonspecific,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
+359,ICD-11,1F2JZ,Sporotrichosis unspecified,9,Sporothrix,Sporothrix,nonspecific,unspecified,Ophiostomatales,Sporothrix,Nonspecific,nonspecific,nonspecific
