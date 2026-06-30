@@ -1,0 +1,2260 @@
+code,description
+B8801,infestation by demodex mites
+B8809,other acariasis
+C50A0,malignant inflammatory neoplasm of unspecified breast
+C50A1,malignant inflammatory neoplasm of right breast
+C50A2,malignant inflammatory neoplasm of left breast
+D711,leukocyte adhesion deficiency
+D718,other functional disorders of polymorphonuclear neutrophils
+D719,functional disorders of polymorphonuclear neutrophils unspecified
+D8130,adenosine deaminase deficiency unspecified
+D8131,severe combined immunodeficiency due to adenosine deaminase deficiency
+D8132,adenosine deaminase 2 deficiency
+D8139,other adenosine deaminase deficiency
+E093521,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula right eye
+E093522,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula left eye
+E093523,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula bilateral
+E093529,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula unspecified eye
+E093531,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula right eye
+E093532,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula left eye
+E093533,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula bilateral
+E093539,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula unspecified eye
+E093541,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment right eye
+E093542,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment left eye
+E093543,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment bilateral
+E093549,drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment unspecified eye
+E093551,drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy right eye
+E093552,drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy left eye
+E093553,drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy bilateral
+E093559,drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy unspecified eye
+E11A,type 2 diabetes mellitus without complications in remission
+E34328,other genetic causes of short stature
+E34329,unspecified genetic causes of short stature
+E3439,other short stature due to endocrine disorder
+E72530,primary hyperoxaluria type 1
+E72538,other specified primary hyperoxaluria
+E72539,primary hyperoxaluria unspecified
+E72540,dietary hyperoxaluria
+E72541,enteric hyperoxaluria
+E72548,other secondary hyperoxaluria
+E72549,secondary hyperoxaluria unspecified
+E78010,homozygous familial hypercholesterolemia hofh
+E78011,heterozygous familial hypercholesterolemia hefh
+E78019,familial hypercholesterolemia unspecified
+E83820,generalized arterial calcification of infancy with unspecified genetic causality
+E83821,enpp1 deficiency causing generalized arterial calcification of infancy
+E83822,enpp1 deficiency causing autosomal recessive hypophosphatemic rickets type 2
+E83823,abcc6 deficiency causing generalized arterial calcification of infancy
+E83824,abcc6 deficiency causing pseudoxanthoma elasticum
+E83825,cd73 deficiency causing arterial calcification
+E8810,lipodystrophy unspecified
+E8811,partial lipodystrophy
+E8812,generalized lipodystrophy
+E8813,localized lipodystrophy
+E8814,hivassociated lipodystrophy
+E8819,other lipodystrophy not elsewhere classified
+G3187,primary progressive apraxia of speech
+G35A,relapsingremitting multiple sclerosis
+G35B0,primary progressive multiple sclerosis unspecified
+G35B1,active primary progressive multiple sclerosis
+G35B2,nonactive primary progressive multiple sclerosis
+G35C0,secondary progressive multiple sclerosis unspecified
+G35C1,active secondary progressive multiple sclerosis
+G35C2,nonactive secondary progressive multiple sclerosis
+G35D,multiple sclerosis unspecified
+G71031,autosomal dominant limb girdle muscular dystrophy
+G71032,autosomal recessive limb girdle muscular dystrophy due to calpain3 dysfunction
+G71033,limb girdle muscular dystrophy due to dysferlin dysfunction
+G710340,limb girdle muscular dystrophy due to sarcoglycan dysfunction unspecified
+G710341,limb girdle muscular dystrophy due to alpha sarcoglycan dysfunction
+G710342,limb girdle muscular dystrophy due to beta sarcoglycan dysfunction
+G710349,limb girdle muscular dystrophy due to other sarcoglycan dysfunction
+G71035,limb girdle muscular dystrophy due to anoctamin5 dysfunction
+G71036,limb girdle muscular dystrophy due to fukutin related protein dysfunction
+G71038,other limb girdle muscular dystrophy
+G71039,limb girdle muscular dystrophy unspecified
+H0181,other specified inflammation of right upper eyelid
+H0182,other specified inflammation of right lower eyelid
+H0183,other specified inflammation of right eye unspecified eyelid
+H0184,other specified inflammation of left upper eyelid
+H0185,other specified inflammation of left lower eyelid
+H0186,other specified inflammation of left eye unspecified eyelid
+H0189,other specified inflammation of unspecified eye unspecified eyelid
+H018A,other specified inflammation of right eye upper and lower eyelids
+H018B,other specified inflammation of left eye upper and lower eyelids
+H05831,thyroid orbitopathy right orbit
+H05832,thyroid orbitopathy left orbit
+H05833,thyroid orbitopathy bilateral
+H05839,thyroid orbitopathy unspecified orbit
+H40841,neovascular secondary angle closure glaucoma right eye
+H40842,neovascular secondary angle closure glaucoma left eye
+H40843,neovascular secondary angle closure glaucoma bilateral
+H40849,neovascular secondary angle closure glaucoma unspecified eye
+H814,vertigo of central origin
+I27840,fontanassociated liver disease fald
+I27841,fontanassociated lymphatic dysfunction
+I27848,other fontanassociated condition
+I27849,fontan related circulation unspecified
+J1282,pneumonia due to coronavirus disease 2019
+J348202,internal nasal valve collapse dynamic
+L02217,cutaneous abscess of flank
+L02227,furuncle of flank
+L0331A,cellulitis of flank
+L0332A,acute lymphangitis of flank
+L98431,nonpressure chronic ulcer of abdomen limited to breakdown of skin
+L98432,nonpressure chronic ulcer of abdomen with fat layer exposed
+L98433,nonpressure chronic ulcer of abdomen with necrosis of muscle
+L98434,nonpressure chronic ulcer of abdomen with necrosis of bone
+L98435,nonpressure chronic ulcer of abdomen with muscle involvement without evidence of necrosis
+L98436,nonpressure chronic ulcer of abdomen with bone involvement without evidence of necrosis
+L98438,nonpressure chronic ulcer of abdomen with other specified severity
+L98439,nonpressure chronic ulcer of abdomen with unspecified severity
+L98441,nonpressure chronic ulcer of chest limited to breakdown of skin
+L98442,nonpressure chronic ulcer of chest with fat layer exposed
+L98443,nonpressure chronic ulcer of chest with necrosis of muscle
+L98444,nonpressure chronic ulcer of chest with necrosis of bone
+L98445,nonpressure chronic ulcer of chest with muscle involvement without evidence of necrosis
+L98446,nonpressure chronic ulcer of chest with bone involvement without evidence of necrosis
+L98448,nonpressure chronic ulcer of chest with other specified severity
+L98449,nonpressure chronic ulcer of chest with unspecified severity
+L98451,nonpressure chronic ulcer of neck limited to breakdown of skin
+L98452,nonpressure chronic ulcer of neck with fat layer exposed
+L98453,nonpressure chronic ulcer of neck with necrosis of muscle
+L98454,nonpressure chronic ulcer of neck with necrosis of bone
+L98455,nonpressure chronic ulcer of neck with muscle involvement without evidence of necrosis
+L98456,nonpressure chronic ulcer of neck with bone involvement without evidence of necrosis
+L98458,nonpressure chronic ulcer of neck with other specified severity
+L98459,nonpressure chronic ulcer of neck with unspecified severity
+L98461,nonpressure chronic ulcer of face limited to breakdown of skin
+L98462,nonpressure chronic ulcer of face with fat layer exposed
+L98463,nonpressure chronic ulcer of face with necrosis of muscle
+L98464,nonpressure chronic ulcer of face with necrosis of bone
+L98465,nonpressure chronic ulcer of face with muscle involvement without evidence of necrosis
+L98466,nonpressure chronic ulcer of face with bone involvement without evidence of necrosis
+L98468,nonpressure chronic ulcer of face with other specified severity
+L98469,nonpressure chronic ulcer of face with unspecified severity
+L98471,nonpressure chronic ulcer of groin limited to breakdown of skin
+L98472,nonpressure chronic ulcer of groin with fat layer exposed
+L98473,nonpressure chronic ulcer of groin with necrosis of muscle
+L98474,nonpressure chronic ulcer of groin with necrosis of bone
+L98475,nonpressure chronic ulcer of groin with muscle involvement without evidence of necrosis
+L98476,nonpressure chronic ulcer of groin with bone involvement without evidence of necrosis
+L98478,nonpressure chronic ulcer of groin with other specified severity
+L98479,nonpressure chronic ulcer of groin with unspecified severity
+L98A111,nonpressure chronic ulcer of right upper arm limited to breakdown of skin
+L98A112,nonpressure chronic ulcer of right upper arm with fat layer exposed
+L98A113,nonpressure chronic ulcer of right upper arm with necrosis of muscle
+L98A114,nonpressure chronic ulcer of right upper arm with necrosis of bone
+L98A115,nonpressure chronic ulcer of right upper arm with muscle involvement without evidence of necrosis
+L98A116,nonpressure chronic ulcer of right upper arm with bone involvement without evidence of necrosis
+L98A118,nonpressure chronic ulcer of right upper arm with other specified severity
+L98A119,nonpressure chronic ulcer of right upper arm with unspecified severity
+L98A121,nonpressure chronic ulcer of left upper arm limited to breakdown of skin
+L98A122,nonpressure chronic ulcer of left upper arm with fat layer exposed
+L98A123,nonpressure chronic ulcer of left upper arm with necrosis of muscle
+L98A124,nonpressure chronic ulcer of left upper arm with necrosis of bone
+L98A125,nonpressure chronic ulcer of left upper arm with muscle involvement without evidence of necrosis
+L98A126,nonpressure chronic ulcer of left upper arm with bone involvement without evidence of necrosis
+L98A128,nonpressure chronic ulcer of left upper arm with other specified severity
+L98A129,nonpressure chronic ulcer of left upper arm with unspecified severity
+L98A191,nonpressure chronic ulcer of unspecified upper arm limited to breakdown of skin
+L98A192,nonpressure chronic ulcer of unspecified upper arm with fat layer exposed
+L98A193,nonpressure chronic ulcer of unspecified upper arm with necrosis of muscle
+L98A194,nonpressure chronic ulcer of unspecified upper arm with necrosis of bone
+L98A195,nonpressure chronic ulcer of unspecified upper arm with muscle involvement without evidence of necrosis
+L98A196,nonpressure chronic ulcer of unspecified upper arm with bone involvement without evidence of necrosis
+L98A198,nonpressure chronic ulcer of unspecified upper arm with other specified severity
+L98A199,nonpressure chronic ulcer of unspecified upper arm with unspecified severity
+L98A211,nonpressure chronic ulcer of right forearm limited to breakdown of skin
+L98A212,nonpressure chronic ulcer of right forearm with fat layer exposed
+L98A213,nonpressure chronic ulcer of right forearm with necrosis of muscle
+L98A214,nonpressure chronic ulcer of right forearm with necrosis of bone
+L98A215,nonpressure chronic ulcer of right forearm with muscle involvement without evidence of necrosis
+L98A216,nonpressure chronic ulcer of right forearm with bone involvement without evidence of necrosis
+L98A218,nonpressure chronic ulcer of right forearm with other specified severity
+L98A219,nonpressure chronic ulcer of right forearm with unspecified severity
+L98A221,nonpressure chronic ulcer of left forearm limited to breakdown of skin
+L98A222,nonpressure chronic ulcer of left forearm with fat layer exposed
+L98A223,nonpressure chronic ulcer of left forearm with necrosis of muscle
+L98A224,nonpressure chronic ulcer of left forearm with necrosis of bone
+L98A225,nonpressure chronic ulcer of left forearm with muscle involvement without evidence of necrosis
+L98A226,nonpressure chronic ulcer of left forearm with bone involvement without evidence of necrosis
+L98A228,nonpressure chronic ulcer of left forearm with other specified severity
+L98A229,nonpressure chronic ulcer of left forearm with unspecified severity
+L98A291,nonpressure chronic ulcer of unspecified forearm limited to breakdown of skin
+L98A292,nonpressure chronic ulcer of unspecified forearm with fat layer exposed
+L98A293,nonpressure chronic ulcer of unspecified forearm with necrosis of muscle
+L98A294,nonpressure chronic ulcer of unspecified forearm with necrosis of bone
+L98A295,nonpressure chronic ulcer of unspecified forearm with muscle involvement without evidence of necrosis
+L98A296,nonpressure chronic ulcer of unspecified forearm with bone involvement without evidence of necrosis
+L98A298,nonpressure chronic ulcer of unspecified forearm with other specified severity
+L98A299,nonpressure chronic ulcer of unspecified forearm with unspecified severity
+L98A311,nonpressure chronic ulcer of right hand limited to breakdown of skin
+L98A312,nonpressure chronic ulcer of right hand with fat layer exposed
+L98A313,nonpressure chronic ulcer of right hand with necrosis of muscle
+L98A314,nonpressure chronic ulcer of right hand with necrosis of bone
+L98A315,nonpressure chronic ulcer of right hand with muscle involvement without evidence of necrosis
+L98A316,nonpressure chronic ulcer of right hand with bone involvement without evidence of necrosis
+L98A318,nonpressure chronic ulcer of right hand with other specified severity
+L98A319,nonpressure chronic ulcer of right hand with unspecified severity
+L98A321,nonpressure chronic ulcer of left hand limited to breakdown of skin
+L98A322,nonpressure chronic ulcer of left hand with fat layer exposed
+L98A323,nonpressure chronic ulcer of left hand with necrosis of muscle
+L98A324,nonpressure chronic ulcer of left hand with necrosis of bone
+L98A325,nonpressure chronic ulcer of left hand with muscle involvement without evidence of necrosis
+L98A326,nonpressure chronic ulcer of left hand with bone involvement without evidence of necrosis
+L98A328,nonpressure chronic ulcer of left hand with other specified severity
+L98A329,nonpressure chronic ulcer of left hand with unspecified severity
+L98A391,nonpressure chronic ulcer of unspecified hand limited to breakdown of skin
+L98A392,nonpressure chronic ulcer of unspecified hand with fat layer exposed
+L98A393,nonpressure chronic ulcer of unspecified hand with necrosis of muscle
+L98A394,nonpressure chronic ulcer of unspecified hand with necrosis of bone
+L98A395,nonpressure chronic ulcer of unspecified hand with muscle involvement without evidence of necrosis
+L98A396,nonpressure chronic ulcer of unspecified hand with bone involvement without evidence of necrosis
+L98A398,nonpressure chronic ulcer of unspecified hand with other specified severity
+L98A399,nonpressure chronic ulcer of unspecified hand with unspecified severity
+M05A,abnormal rheumatoid factor and anticitrullinated protein antibody with rheumatoid arthritis
+M3581,multisystem inflammatory syndrome
+M3589,other specified systemic involvement of connective tissue
+N00B1,acute nephritic syndrome with idiopathic immune membranoproliferative glomerulonephritis icmpgn
+N00B2,acute nephritic syndrome with secondary immune complex membranoproliferative glomerulonephritis icmpgn
+N04B1,nephrotic syndrome with idiopathic immune complex membranoproliferative glomerulonephritis icmpgn
+N04B2,nephrotic syndrome with secondary immune complex membranoproliferative glomerulonephritis icmpgn
+N07B,hereditary nephropathy not elsewhere classified with apol1mediated kidney disease amkd
+Q6600,congenital talipes equinovarus unspecified foot
+Q6601,congenital talipes equinovarus right foot
+Q6602,congenital talipes equinovarus left foot
+Q6610,congenital talipes calcaneovarus unspecified foot
+Q6611,congenital talipes calcaneovarus right foot
+Q6612,congenital talipes calcaneovarus left foot
+Q66211,congenital metatarsus primus varus right foot
+Q66212,congenital metatarsus primus varus left foot
+Q66219,congenital metatarsus primus varus unspecified foot
+Q66221,congenital metatarsus adductus right foot
+Q66222,congenital metatarsus adductus left foot
+Q66229,congenital metatarsus adductus unspecified foot
+Q6630,other congenital varus deformities of feet unspecified foot
+Q6631,other congenital varus deformities of feet right foot
+Q6632,other congenital varus deformities of feet left foot
+Q6640,congenital talipes calcaneovalgus unspecified foot
+Q6641,congenital talipes calcaneovalgus right foot
+Q6642,congenital talipes calcaneovalgus left foot
+Q6650,congenital pes planus unspecified foot
+Q6651,congenital pes planus right foot
+Q6652,congenital pes planus left foot
+Q666,other congenital valgus deformities of feet
+Q6670,congenital pes cavus unspecified foot
+Q6671,congenital pes cavus right foot
+Q6672,congenital pes cavus left foot
+Q6680,congenital vertical talus deformity unspecified foot
+Q6681,congenital vertical talus deformity right foot
+Q6682,congenital vertical talus deformity left foot
+Q6689,other specified congenital deformities of feet
+Q6690,congenital deformity of feet unspecified unspecified foot
+Q6691,congenital deformity of feet unspecified right foot
+Q6692,congenital deformity of feet unspecified left foot
+Q7960,ehlersdanlos syndrome unspecified
+Q7961,classical ehlersdanlos syndrome
+Q7962,hypermobile ehlersdanlos syndrome
+Q7963,vascular ehlersdanlos syndrome
+Q7969,other ehlersdanlos syndromes
+Q8711,praderwilli syndrome
+Q8719,other congenital malformation syndromes predominantly associated with short stature
+Q8787,haofountain syndrome
+Q8788,ctnnb1 syndrome
+Q8981,kabuki syndrome
+Q8989,other specified congenital malformations
+Q99811,usher syndrome type 1
+Q99812,usher syndrome type 2
+Q99813,usher syndrome type 3
+Q99818,other usher syndrome
+Q99819,usher syndrome unspecified
+Q9989,other specified chromosome abnormalities
+QA00101,scn2arelated neurodevelopmental disorder
+QA00102,cacna1arelated neurodevelopmental disorder
+QA00109,neurodevelopmental disorder related to pathogenic variant in other ion channel gene
+QA0011,neurodevelopmental disorders related to pathogenic variants in glutamate receptor genes
+QA0012,neurodevelopmental disorders related to pathogenic variants in other receptor genes
+QA00131,slc6a1related disorder
+QA00139,neurodevelopmental disorder related to pathogenic variant in other transporter or solute carrier gene
+QA00141,syntaxinbinding protein 1related disorder
+QA00142,dlg4related synaptopathy
+QA00149,neurodevelopmental disorder related to pathogenic variant in other synapse related gene
+QA00151,foxg1 syndrome
+QA00159,neurodevelopmental disorder related to other genes associated with transcription and gene expression
+QA08,other neurodevelopmental disorders related to pathogenic variants in other specific genes
+R1020,pelvic and perineal pain unspecified side
+R1021,pelvic and perineal pain right side
+R1022,pelvic and perineal pain left side
+R1023,pelvic and perineal pain bilateral
+R1024,suprapubic pain
+R1085,abdominal pain of multiple sites
+R108A1,right flank tenderness
+R108A2,left flank tenderness
+R108A3,suprapubic tenderness
+R108A9,flank tenderness unspecified
+R10A0,flank pain unspecified side
+R10A1,flank pain right side
+R10A2,flank pain left side
+R10A3,flank pain bilateral
+R1116,cannabis hyperemesis syndrome
+R39851,costovertebral angle tenderness right side
+R39852,costovertebral angle tenderness left side
+R39853,costovertebral angle tenderness bilateral
+R39859,costovertebral angle tenderness unspecified side
+R419,unspecified symptoms and signs involving cognitive functions and awareness
+R448,other symptoms and signs involving general sensations and perceptions
+R449,unspecified symptoms and signs involving general sensations and perceptions
+R4584,anhedonia
+R460,very low level of personal hygiene
+R461,bizarre personal appearance
+R462,strange and inexplicable behavior
+R463,overactivity
+R464,slowness and poor responsiveness
+R465,suspiciousness and marked evasiveness
+R466,undue concern and preoccupation with stressful events
+R467,verbosity and circumstantial detail obscuring reason for contact
+R4681,obsessivecompulsive behavior
+R4689,other symptoms and signs involving appearance and behavior
+R6819,other nonspecific symptoms peculiar to infancy
+R6889,other general symptoms and signs
+R69,illness unspecified
+R7681,abnormal rheumatoid factor and anticitrullinated protein antibody without rheumatoid arthritis
+R7689,other specified abnormal immunological findings in serum
+R8281,pyuria
+R8289,other abnormal findings on cytological and histological examination of urine
+R99,illdefined and unknown cause of mortality
+S3011XA,contusion of abdominal wall initial encounter
+S3011XD,contusion of abdominal wall subsequent encounter
+S3011XS,contusion of abdominal wall sequela
+S3012XA,contusion of groin initial encounter
+S3012XD,contusion of groin subsequent encounter
+S3012XS,contusion of groin sequela
+S3013XA,contusion of flank latus region initial encounter
+S3013XD,contusion of flank latus region subsequent encounter
+S3013XS,contusion of flank latus region sequela
+S3081AA,abrasion of flank initial encounter
+S3081AD,abrasion of flank subsequent encounter
+S3081AS,abrasion of flank sequela
+S3082AA,blister nonthermal of flank initial encounter
+S3082AD,blister nonthermal of flank subsequent encounter
+S3082AS,blister nonthermal of flank sequela
+S3084AA,external constriction of flank initial encounter
+S3084AD,external constriction of flank subsequent encounter
+S3084AS,external constriction of flank sequela
+S3085AA,superficial foreign body of flank initial encounter
+S3085AD,superficial foreign body of flank subsequent encounter
+S3085AS,superficial foreign body of flank sequela
+S3086AA,insect bite nonvenomous of flank initial encounter
+S3086AD,insect bite nonvenomous of flank subsequent encounter
+S3086AS,insect bite nonvenomous of flank sequela
+S3087AA,other superficial bite of flank initial encounter
+S3087AD,other superficial bite of flank subsequent encounter
+S3087AS,other superficial bite of flank sequela
+S309AXA,unspecified superficial injury of flank initial encounter
+S309AXD,unspecified superficial injury of flank subsequent encounter
+S309AXS,unspecified superficial injury of flank sequela
+S31106A,unspecified open wound of abdominal wall right flank without penetration into peritoneal cavity initial encounter
+S31106D,unspecified open wound of abdominal wall right flank without penetration into peritoneal cavity subsequent encounter
+S31106S,unspecified open wound of abdominal wall right flank without penetration into peritoneal cavity sequela
+S31107A,unspecified open wound of abdominal wall left flank without penetration into peritoneal cavity initial encounter
+S31107D,unspecified open wound of abdominal wall left flank without penetration into peritoneal cavity subsequent encounter
+S31107S,unspecified open wound of abdominal wall left flank without penetration into peritoneal cavity sequela
+S3110AA,unspecified open wound of abdominal wall unspecified flank without penetration into peritoneal cavity initial encounter
+S3110AD,unspecified open wound of abdominal wall unspecified flank without penetration into peritoneal cavity subsequent encounter
+S3110AS,unspecified open wound of abdominal wall unspecified flank without penetration into peritoneal cavity sequela
+S31116A,laceration without foreign body of abdominal wall right flank without penetration into peritoneal cavity initial encounter
+S31116D,laceration without foreign body of abdominal wall right flank without penetration into peritoneal cavity subsequent encounter
+S31116S,laceration without foreign body of abdominal wall right flank without penetration into peritoneal cavity sequela
+S31117A,laceration without foreign body of abdominal wall left flank without penetration into peritoneal cavity initial encounter
+S31117D,laceration without foreign body of abdominal wall left flank without penetration into peritoneal cavity subsequent encounter
+S31117S,laceration without foreign body of abdominal wall left flank without penetration into peritoneal cavity sequela
+S3111AA,laceration without foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity initial encounter
+S3111AD,laceration without foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity subsequent encounter
+S3111AS,laceration without foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity sequela
+S31126A,laceration with foreign body of abdominal wall right flank without penetration into peritoneal cavity initial encounter
+S31126D,laceration with foreign body of abdominal wall right flank without penetration into peritoneal cavity subsequent encounter
+S31126S,laceration with foreign body of abdominal wall right flank without penetration into peritoneal cavity sequela
+S31127A,laceration with foreign body of abdominal wall left flank without penetration into peritoneal cavity initial encounter
+S31127D,laceration with foreign body of abdominal wall left flank without penetration into peritoneal cavity subsequent encounter
+S31127S,laceration with foreign body of abdominal wall left flank without penetration into peritoneal cavity sequela
+S3112AA,laceration with foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity initial encounter
+S3112AD,laceration with foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity subsequent encounter
+S3112AS,laceration with foreign body of abdominal wall unspecified flank without penetration into peritoneal cavity sequela
+S31136A,puncture wound of abdominal wall without foreign body right flank without penetration into peritoneal cavity initial encounter
+S31136D,puncture wound of abdominal wall without foreign body right flank without penetration into peritoneal cavity subsequent encounter
+S31136S,puncture wound of abdominal wall without foreign body right flank without penetration into peritoneal cavity sequela
+S31137A,puncture wound of abdominal wall without foreign body left flank without penetration into peritoneal cavity initial encounter
+S31137D,puncture wound of abdominal wall without foreign body left flank without penetration into peritoneal cavity subsequent encounter
+S31137S,puncture wound of abdominal wall without foreign body left flank without penetration into peritoneal cavity sequela
+S3113AA,puncture wound of abdominal wall without foreign body unspecified flank without penetration into peritoneal cavity initial encounter
+S3113AD,puncture wound of abdominal wall without foreign body unspecified flank without penetration into peritoneal cavity subsequent encounter
+S3113AS,puncture wound of abdominal wall without foreign body unspecified flank without penetration into peritoneal cavity sequela
+S31146A,puncture wound of abdominal wall with foreign body right flank without penetration into peritoneal cavity initial encounter
+S31146D,puncture wound of abdominal wall with foreign body right flank without penetration into peritoneal cavity subsequent encounter
+S31146S,puncture wound of abdominal wall with foreign body right flank without penetration into peritoneal cavity sequela
+S31147A,puncture wound of abdominal wall with foreign body left flank without penetration into peritoneal cavity initial encounter
+S31147D,puncture wound of abdominal wall with foreign body left flank without penetration into peritoneal cavity subsequent encounter
+S31147S,puncture wound of abdominal wall with foreign body left flank without penetration into peritoneal cavity sequela
+S3114AA,puncture wound of abdominal wall with foreign body unspecified flank without penetration into peritoneal cavity initial encounter
+S3114AD,puncture wound of abdominal wall with foreign body unspecified flank without penetration into peritoneal cavity subsequent encounter
+S3114AS,puncture wound of abdominal wall with foreign body unspecified flank without penetration into peritoneal cavity sequela
+S31156A,open bite of abdominal wall right flank without penetration into peritoneal cavity initial encounter
+S31156D,open bite of abdominal wall right flank without penetration into peritoneal cavity subsequent encounter
+S31156S,open bite of abdominal wall right flank without penetration into peritoneal cavity sequela
+S31157A,open bite of abdominal wall left flank without penetration into peritoneal cavity initial encounter
+S31157D,open bite of abdominal wall left flank without penetration into peritoneal cavity subsequent encounter
+S31157S,open bite of abdominal wall left flank without penetration into peritoneal cavity sequela
+S3115AA,open bite of abdominal wall unspecified flank without penetration into peritoneal cavity initial encounter
+S3115AD,open bite of abdominal wall unspecified flank without penetration into peritoneal cavity subsequent encounter
+S3115AS,open bite of abdominal wall unspecified flank without penetration into peritoneal cavity sequela
+S31606A,unspecified open wound of abdominal wall right flank with penetration into peritoneal cavity initial encounter
+S31606D,unspecified open wound of abdominal wall right flank with penetration into peritoneal cavity subsequent encounter
+S31606S,unspecified open wound of abdominal wall right flank with penetration into peritoneal cavity sequela
+S31607A,unspecified open wound of abdominal wall left flank with penetration into peritoneal cavity initial encounter
+S31607D,unspecified open wound of abdominal wall left flank with penetration into peritoneal cavity subsequent encounter
+S31607S,unspecified open wound of abdominal wall left flank with penetration into peritoneal cavity sequela
+S3160AA,unspecified open wound of abdominal wall unspecified flank with penetration into peritoneal cavity initial encounter
+S3160AD,unspecified open wound of abdominal wall unspecified flank with penetration into peritoneal cavity subsequent encounter
+S3160AS,unspecified open wound of abdominal wall unspecified flank with penetration into peritoneal cavity sequela
+S31616A,laceration without foreign body of abdominal wall right flank with penetration into peritoneal cavity initial encounter
+S31616D,laceration without foreign body of abdominal wall right flank with penetration into peritoneal cavity subsequent encounter
+S31616S,laceration without foreign body of abdominal wall right flank with penetration into peritoneal cavity sequela
+S31617A,laceration without foreign body of abdominal wall left flank with penetration into peritoneal cavity initial encounter
+S31617D,laceration without foreign body of abdominal wall left flank with penetration into peritoneal cavity subsequent encounter
+S31617S,laceration without foreign body of abdominal wall left flank with penetration into peritoneal cavity sequela
+S3161AA,laceration without foreign body of abdominal wall unspecified flank with penetration into peritoneal cavity initial encounter
+S3161AD,laceration without foreign body of abdominal wall unspecified flank with penetration into peritoneal cavity subsequent encounter
+S3161AS,laceration without foreign body of abdominal wall unspecified flank with penetration into peritoneal cavity sequela
+S31626A,laceration with foreign body of abdominal wall right flank with penetration into peritoneal cavity initial encounter
+S31626D,laceration with foreign body of abdominal wall right flank with penetration into peritoneal cavity subsequent encounter
+S31626S,laceration with foreign body of abdominal wall right flank with penetration into peritoneal cavity sequela
+S31627A,laceration with foreign body of abdominal wall left flank with penetration into peritoneal cavity initial encounter
+S31627D,laceration with foreign body of abdominal wall left flank with penetration into peritoneal cavity subsequent encounter
+S31627S,laceration with foreign body of abdominal wall left flank with penetration into peritoneal cavity sequela
+S3162AA,laceration with foreign body of abdominal wall unspecified flank with penetration into peritoneal cavity initial encounter
+S3162AD,laceration with foreign body of abdominal wall unspecified flank with penetration into peritoneal cavity subsequent encounter
+S3162AS,laceration with foreign body of abdominal wall unspecified flank with penetration into peritoneal cavity sequela
+S31636A,puncture wound of abdominal wall without foreign body right flank with penetration into peritoneal cavity initial encounter
+S31636D,puncture wound of abdominal wall without foreign body right flank with penetration into peritoneal cavity subsequent encounter
+S31636S,puncture wound of abdominal wall without foreign body right flank with penetration into peritoneal cavity sequela
+S31637A,puncture wound of abdominal wall without foreign body left flank with penetration into peritoneal cavity initial encounter
+S31637D,puncture wound of abdominal wall without foreign body left flank with penetration into peritoneal cavity subsequent encounter
+S31637S,puncture wound of abdominal wall without foreign body left flank with penetration into peritoneal cavity sequela
+S3163AA,puncture wound of abdominal wall without foreign body unspecified flank with penetration into peritoneal cavity initial encounter
+S3163AD,puncture wound of abdominal wall without foreign body unspecified flank with penetration into peritoneal cavity subsequent encounter
+S3163AS,puncture wound of abdominal wall without foreign body unspecified flank with penetration into peritoneal cavity sequela
+S31646A,puncture wound of abdominal wall with foreign body right flank with penetration into peritoneal cavity initial encounter
+S31646D,puncture wound of abdominal wall with foreign body right flank with penetration into peritoneal cavity subsequent encounter
+S31646S,puncture wound of abdominal wall with foreign body right flank with penetration into peritoneal cavity sequela
+S31647A,puncture wound of abdominal wall with foreign body left flank with penetration into peritoneal cavity initial encounter
+S31647D,puncture wound of abdominal wall with foreign body left flank with penetration into peritoneal cavity subsequent encounter
+S31647S,puncture wound of abdominal wall with foreign body left flank with penetration into peritoneal cavity sequela
+S3164AA,puncture wound of abdominal wall with foreign body unspecified flank with penetration into peritoneal cavity initial encounter
+S3164AD,puncture wound of abdominal wall with foreign body unspecified flank with penetration into peritoneal cavity subsequent encounter
+S3164AS,puncture wound of abdominal wall with foreign body unspecified flank with penetration into peritoneal cavity sequela
+S31656A,open bite of abdominal wall right flank with penetration into peritoneal cavity initial encounter
+S31656D,open bite of abdominal wall right flank with penetration into peritoneal cavity subsequent encounter
+S31656S,open bite of abdominal wall right flank with penetration into peritoneal cavity sequela
+S31657A,open bite of abdominal wall left flank with penetration into peritoneal cavity initial encounter
+S31657D,open bite of abdominal wall left flank with penetration into peritoneal cavity subsequent encounter
+S31657S,open bite of abdominal wall left flank with penetration into peritoneal cavity sequela
+S3165AA,open bite of abdominal wall unspecified flank with penetration into peritoneal cavity initial encounter
+S3165AD,open bite of abdominal wall unspecified flank with penetration into peritoneal cavity subsequent encounter
+S3165AS,open bite of abdominal wall unspecified flank with penetration into peritoneal cavity sequela
+T07XXXA,unspecified multiple injuries initial encounter
+T07XXXD,unspecified multiple injuries subsequent encounter
+T07XXXS,unspecified multiple injuries sequela
+T148XXA,other injury of unspecified body region initial encounter
+T148XXD,other injury of unspecified body region subsequent encounter
+T148XXS,other injury of unspecified body region sequela
+T1490XA,injury unspecified initial encounter
+T1490XD,injury unspecified subsequent encounter
+T1490XS,injury unspecified sequela
+T1491XA,suicide attempt initial encounter
+T1491XD,suicide attempt subsequent encounter
+T1491XS,suicide attempt sequela
+T36AX1A,poisoning by fluoroquinolone antibiotics accidental unintentional initial encounter
+T36AX1D,poisoning by fluoroquinolone antibiotics accidental unintentional subsequent encounter
+T36AX1S,poisoning by fluoroquinolone antibiotics accidental unintentional sequela
+T36AX2A,poisoning by fluoroquinolone antibiotics intentional selfharm initial encounter
+T36AX2D,poisoning by fluoroquinolone antibiotics intentional selfharm subsequent encounter
+T36AX2S,poisoning by fluoroquinolone antibiotics intentional selfharm sequela
+T36AX3A,poisoning by fluoroquinolone antibiotics assault initial encounter
+T36AX3D,poisoning by fluoroquinolone antibiotics assault subsequent encounter
+T36AX3S,poisoning by fluoroquinolone antibiotics assault sequela
+T36AX4A,poisoning by fluoroquinolone antibiotics undetermined initial encounter
+T36AX4D,poisoning by fluoroquinolone antibiotics undetermined subsequent encounter
+T36AX4S,poisoning by fluoroquinolone antibiotics undetermined sequela
+T36AX5A,adverse effect of fluoroquinolone antibiotics initial encounter
+T36AX5D,adverse effect of fluoroquinolone antibiotics subsequent encounter
+T36AX5S,adverse effect of fluoroquinolone antibiotics sequela
+T36AX6A,underdosing of fluoroquinolone antibiotics initial encounter
+T36AX6D,underdosing of fluoroquinolone antibiotics subsequent encounter
+T36AX6S,underdosing of fluoroquinolone antibiotics sequela
+T43691A,poisoning by other psychostimulants accidental unintentional initial encounter
+T43691D,poisoning by other psychostimulants accidental unintentional subsequent encounter
+T43691S,poisoning by other psychostimulants accidental unintentional sequela
+T43692A,poisoning by other psychostimulants intentional selfharm initial encounter
+T43692D,poisoning by other psychostimulants intentional selfharm subsequent encounter
+T43692S,poisoning by other psychostimulants intentional selfharm sequela
+T43693A,poisoning by other psychostimulants assault initial encounter
+T43693D,poisoning by other psychostimulants assault subsequent encounter
+T43693S,poisoning by other psychostimulants assault sequela
+T43694A,poisoning by other psychostimulants undetermined initial encounter
+T43694D,poisoning by other psychostimulants undetermined subsequent encounter
+T43694S,poisoning by other psychostimulants undetermined sequela
+T43695A,adverse effect of other psychostimulants initial encounter
+T43695D,adverse effect of other psychostimulants subsequent encounter
+T43695S,adverse effect of other psychostimulants sequela
+T43696A,underdosing of other psychostimulants initial encounter
+T43696D,underdosing of other psychostimulants subsequent encounter
+T43696S,underdosing of other psychostimulants sequela
+T65841A,toxic effect of xylazine accidental unintentional initial encounter
+T65841D,toxic effect of xylazine accidental unintentional subsequent encounter
+T65841S,toxic effect of xylazine accidental unintentional sequela
+T65842A,toxic effect of xylazine intentional selfharm initial encounter
+T65842D,toxic effect of xylazine intentional selfharm subsequent encounter
+T65842S,toxic effect of xylazine intentional selfharm sequela
+T65843A,toxic effect of xylazine assault initial encounter
+T65843D,toxic effect of xylazine assault subsequent encounter
+T65843S,toxic effect of xylazine assault sequela
+T65844A,toxic effect of xylazine undetermined initial encounter
+T65844D,toxic effect of xylazine undetermined subsequent encounter
+T65844S,toxic effect of xylazine undetermined sequela
+T6701XA,heatstroke and sunstroke initial encounter
+T6701XD,heatstroke and sunstroke subsequent encounter
+T6701XS,heatstroke and sunstroke sequela
+T6702XA,exertional heatstroke initial encounter
+T6702XD,exertional heatstroke subsequent encounter
+T6702XS,exertional heatstroke sequela
+T6709XA,other heatstroke and sunstroke initial encounter
+T6709XD,other heatstroke and sunstroke subsequent encounter
+T6709XS,other heatstroke and sunstroke sequela
+T74A1XA,adult financial abuse confirmed initial encounter
+T74A1XD,adult financial abuse confirmed subsequent encounter
+T74A1XS,adult financial abuse confirmed sequela
+T74A2XA,child financial abuse confirmed initial encounter
+T74A2XD,child financial abuse confirmed subsequent encounter
+T74A2XS,child financial abuse confirmed sequela
+T75830A,gulf war illness initial encounter
+T75830D,gulf war illness subsequent encounter
+T75830S,gulf war illness sequela
+T75838A,effects of other war theater initial encounter
+T75838D,effects of other war theater subsequent encounter
+T75838S,effects of other war theater sequela
+T76A1XA,adult financial abuse suspected initial encounter
+T76A1XD,adult financial abuse suspected subsequent encounter
+T76A1XS,adult financial abuse suspected sequela
+T76A2XA,child financial abuse suspected initial encounter
+T76A2XD,child financial abuse suspected subsequent encounter
+T76A2XS,child financial abuse suspected sequela
+T78070A,anaphylactic reaction due to milk and dairy products with tolerance to baked milk initial encounter
+T78070D,anaphylactic reaction due to milk and dairy products with tolerance to baked milk subsequent encounter
+T78070S,anaphylactic reaction due to milk and dairy products with tolerance to baked milk sequela
+T78071A,anaphylactic reaction due to milk and dairy products with reactivity to baked milk initial encounter
+T78071D,anaphylactic reaction due to milk and dairy products with reactivity to baked milk subsequent encounter
+T78071S,anaphylactic reaction due to milk and dairy products with reactivity to baked milk sequela
+T78079A,anaphylactic reaction due to milk and dairy products unspecified initial encounter
+T78079D,anaphylactic reaction due to milk and dairy products unspecified subsequent encounter
+T78079S,anaphylactic reaction due to milk and dairy products unspecified sequela
+T78080A,anaphylactic reaction due to egg with tolerance to baked egg initial encounter
+T78080D,anaphylactic reaction due to egg with tolerance to baked egg subsequent encounter
+T78080S,anaphylactic reaction due to egg with tolerance to baked egg sequela
+T78081A,anaphylactic reaction due to egg with reactivity to baked egg initial encounter
+T78081D,anaphylactic reaction due to egg with reactivity to baked egg subsequent encounter
+T78081S,anaphylactic reaction due to egg with reactivity to baked egg sequela
+T78089A,anaphylactic reaction due to eggs unspecified initial encounter
+T78089D,anaphylactic reaction due to eggs unspecified subsequent encounter
+T78089S,anaphylactic reaction due to eggs unspecified sequela
+T78110A,other adverse food reactions due to milk and dairy products with tolerance to baked milk initial encounter
+T78110D,other adverse food reactions due to milk and dairy products with tolerance to baked milk subsequent encounter
+T78110S,other adverse food reactions due to milk and dairy products with tolerance to baked milk sequela
+T78111A,other adverse food reaction due to milk and dairy products with reactivity to baked milk initial encounter
+T78111D,other adverse food reaction due to milk and dairy products with reactivity to baked milk subsequent encounter
+T78111S,other adverse food reaction due to milk and dairy products with reactivity to baked milk sequela
+T78119A,other adverse food reaction due to milk and dairy products with baked milk tolerancereactivity unspecified initial encounter
+T78119D,other adverse food reaction due to milk and dairy products with baked milk tolerancereactivity unspecified subsequent encounter
+T78119S,other adverse food reaction due to milk and dairy products with baked milk tolerancereactivity unspecified sequela
+T78120A,other adverse food reaction due to egg with tolerance to baked egg initial encounter
+T78120D,other adverse food reaction due to egg with tolerance to baked egg subsequent encounter
+T78120S,other adverse food reaction due to egg with tolerance to baked egg sequela
+T78121A,other adverse food reaction due to egg with reactivity to baked egg initial encounter
+T78121D,other adverse food reaction due to egg with reactivity to baked egg subsequent encounter
+T78121S,other adverse food reaction due to egg with reactivity to baked egg sequela
+T78129A,other adverse food reaction due to egg with baked egg tolerancereactivity unspecified initial encounter
+T78129D,other adverse food reaction due to egg with baked egg tolerancereactivity unspecified subsequent encounter
+T78129S,other adverse food reaction due to egg with baked egg tolerancereactivity unspecified sequela
+T7819XA,other adverse food reactions not elsewhere classified initial encounter
+T7819XD,other adverse food reactions not elsewhere classified subsequent encounter
+T7819XS,other adverse food reactions not elsewhere classified sequela
+T887XXA,unspecified adverse effect of drug or medicament initial encounter
+T887XXD,unspecified adverse effect of drug or medicament subsequent encounter
+T887XXS,unspecified adverse effect of drug or medicament sequela
+T888XXA,other specified complications of surgical and medical care not elsewhere classified initial encounter
+T888XXD,other specified complications of surgical and medical care not elsewhere classified subsequent encounter
+T888XXS,other specified complications of surgical and medical care not elsewhere classified sequela
+T889XXA,complication of surgical and medical care unspecified initial encounter
+T889XXD,complication of surgical and medical care unspecified subsequent encounter
+T889XXS,complication of surgical and medical care unspecified sequela
+W44H9XA,other sharp object entering into or through a natural orifice initial encounter
+W44H9XD,other sharp object entering into or through a natural orifice subsequent encounter
+W44H9XS,other sharp object entering into or through a natural orifice sequela
+W453XXA,fishing hook entering through skin initial encounter
+W453XXD,fishing hook entering through skin subsequent encounter
+W453XXS,fishing hook entering through skin sequela
+Y07010,husband current perpetrator of maltreatment and neglect
+Y07011,husband former perpetrator of maltreatment and neglect
+Y07020,wife current perpetrator of maltreatment and neglect
+Y07021,wife former perpetrator of maltreatment and neglect
+Y07030,male partner current perpetrator of maltreatment and neglect
+Y07031,male partner former perpetrator of maltreatment and neglect
+Y07040,female partner current perpetrator of maltreatment and neglect
+Y07041,female partner former perpetrator of maltreatment and neglect
+Y07050,nonbinary partner current perpetrator of maltreatment and neglect
+Y07051,nonbinary partner former perpetrator of maltreatment and neglect
+Y0744,child perpetrator of maltreatment and neglect
+Y0745,grandchild perpetrator of maltreatment and neglect
+Y0746,grandparent perpetrator of maltreatment and neglect
+Y0747,parental sibling perpetrator of maltreatment and neglect
+Y0754,acquaintance or friend perpetrator of maltreatment and neglect
+Y35122A,legal intervention involving injury by explosive shell bystander injured initial encounter
+Y35122D,legal intervention involving injury by explosive shell bystander injured subsequent encounter
+Y35122S,legal intervention involving injury by explosive shell bystander injured sequela
+Y35899A,legal intervention involving other specified means unspecified person injured initial encounter
+Y35899D,legal intervention involving other specified means unspecified person injured subsequent encounter
+Y35899S,legal intervention involving other specified means unspecified person injured sequela
+Y36A1XA,low level blast overpressure in war operations initial encounter
+Y36A1XD,low level blast overpressure in war operations subsequent encounter
+Y36A1XS,low level blast overpressure in war operations sequela
+Y36A2XA,high level blast overpressure in war operations initial encounter
+Y36A2XD,high level blast overpressure in war operations subsequent encounter
+Y36A2XS,high level blast overpressure in war operations sequela
+Y37A1XA,low level blast overpressure in military operations initial encounter
+Y37A1XD,low level blast overpressure in military operations subsequent encounter
+Y37A1XS,low level blast overpressure in military operations sequela
+Y37A2XA,high level blast overpressure in military operations initial encounter
+Y37A2XD,high level blast overpressure in military operations subsequent encounter
+Y37A2XS,high level blast overpressure in military operations sequela
+Y92000,kitchen of unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92001,dining room of unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92002,bathroom of unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92003,bedroom of unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92007,garden or yard of unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92008,other place in unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92009,unspecified place in unspecified noninstitutional private residence as the place of occurrence of the external cause
+Y92010,kitchen of singlefamily private house as the place of occurrence of the external cause
+Y92011,dining room of singlefamily private house as the place of occurrence of the external cause
+Y92012,bathroom of singlefamily private house as the place of occurrence of the external cause
+Y92013,bedroom of singlefamily private house as the place of occurrence of the external cause
+Y92014,private driveway to singlefamily private house as the place of occurrence of the external cause
+Y92015,private garage of singlefamily private house as the place of occurrence of the external cause
+Y92016,swimmingpool in singlefamily private house or garden as the place of occurrence of the external cause
+Y92017,garden or yard in singlefamily private house as the place of occurrence of the external cause
+Y92018,other place in singlefamily private house as the place of occurrence of the external cause
+Y92019,unspecified place in singlefamily private house as the place of occurrence of the external cause
+Y92020,kitchen in mobile home as the place of occurrence of the external cause
+Y92021,dining room in mobile home as the place of occurrence of the external cause
+Y92022,bathroom in mobile home as the place of occurrence of the external cause
+Y92023,bedroom in mobile home as the place of occurrence of the external cause
+Y92024,driveway of mobile home as the place of occurrence of the external cause
+Y92025,garage of mobile home as the place of occurrence of the external cause
+Y92026,swimmingpool of mobile home as the place of occurrence of the external cause
+Y92027,garden or yard of mobile home as the place of occurrence of the external cause
+Y92028,other place in mobile home as the place of occurrence of the external cause
+Y92029,unspecified place in mobile home as the place of occurrence of the external cause
+Y92030,kitchen in apartment as the place of occurrence of the external cause
+Y92031,bathroom in apartment as the place of occurrence of the external cause
+Y92032,bedroom in apartment as the place of occurrence of the external cause
+Y92038,other place in apartment as the place of occurrence of the external cause
+Y92039,unspecified place in apartment as the place of occurrence of the external cause
+Y92040,kitchen in boardinghouse as the place of occurrence of the external cause
+Y92041,bathroom in boardinghouse as the place of occurrence of the external cause
+Y92042,bedroom in boardinghouse as the place of occurrence of the external cause
+Y92043,driveway of boardinghouse as the place of occurrence of the external cause
+Y92044,garage of boardinghouse as the place of occurrence of the external cause
+Y92045,swimmingpool of boardinghouse as the place of occurrence of the external cause
+Y92046,garden or yard of boardinghouse as the place of occurrence of the external cause
+Y92048,other place in boardinghouse as the place of occurrence of the external cause
+Y92049,unspecified place in boardinghouse as the place of occurrence of the external cause
+Y92090,kitchen in other noninstitutional residence as the place of occurrence of the external cause
+Y92091,bathroom in other noninstitutional residence as the place of occurrence of the external cause
+Y92092,bedroom in other noninstitutional residence as the place of occurrence of the external cause
+Y92093,driveway of other noninstitutional residence as the place of occurrence of the external cause
+Y92094,garage of other noninstitutional residence as the place of occurrence of the external cause
+Y92095,swimmingpool of other noninstitutional residence as the place of occurrence of the external cause
+Y92096,garden or yard of other noninstitutional residence as the place of occurrence of the external cause
+Y92098,other place in other noninstitutional residence as the place of occurrence of the external cause
+Y92099,unspecified place in other noninstitutional residence as the place of occurrence of the external cause
+Y9210,unspecified residential institution as the place of occurrence of the external cause
+Y92110,kitchen in childrens home and orphanage as the place of occurrence of the external cause
+Y92111,bathroom in childrens home and orphanage as the place of occurrence of the external cause
+Y92112,bedroom in childrens home and orphanage as the place of occurrence of the external cause
+Y92113,driveway of childrens home and orphanage as the place of occurrence of the external cause
+Y92114,garage of childrens home and orphanage as the place of occurrence of the external cause
+Y92115,swimmingpool of childrens home and orphanage as the place of occurrence of the external cause
+Y92116,garden or yard of childrens home and orphanage as the place of occurrence of the external cause
+Y92118,other place in childrens home and orphanage as the place of occurrence of the external cause
+Y92119,unspecified place in childrens home and orphanage as the place of occurrence of the external cause
+Y92120,kitchen in nursing home as the place of occurrence of the external cause
+Y92121,bathroom in nursing home as the place of occurrence of the external cause
+Y92122,bedroom in nursing home as the place of occurrence of the external cause
+Y92123,driveway of nursing home as the place of occurrence of the external cause
+Y92124,garage of nursing home as the place of occurrence of the external cause
+Y92125,swimmingpool of nursing home as the place of occurrence of the external cause
+Y92126,garden or yard of nursing home as the place of occurrence of the external cause
+Y92128,other place in nursing home as the place of occurrence of the external cause
+Y92129,unspecified place in nursing home as the place of occurrence of the external cause
+Y92130,kitchen on military base as the place of occurrence of the external cause
+Y92131,mess hall on military base as the place of occurrence of the external cause
+Y92133,barracks on military base as the place of occurrence of the external cause
+Y92135,garage on military base as the place of occurrence of the external cause
+Y92136,swimmingpool on military base as the place of occurrence of the external cause
+Y92137,garden or yard on military base as the place of occurrence of the external cause
+Y92138,other place on military base as the place of occurrence of the external cause
+Y92139,unspecified place military base as the place of occurrence of the external cause
+Y92140,kitchen in prison as the place of occurrence of the external cause
+Y92141,dining room in prison as the place of occurrence of the external cause
+Y92142,bathroom in prison as the place of occurrence of the external cause
+Y92143,cell of prison as the place of occurrence of the external cause
+Y92146,swimmingpool of prison as the place of occurrence of the external cause
+Y92147,courtyard of prison as the place of occurrence of the external cause
+Y92148,other place in prison as the place of occurrence of the external cause
+Y92149,unspecified place in prison as the place of occurrence of the external cause
+Y92150,kitchen in reform school as the place of occurrence of the external cause
+Y92151,dining room in reform school as the place of occurrence of the external cause
+Y92152,bathroom in reform school as the place of occurrence of the external cause
+Y92153,bedroom in reform school as the place of occurrence of the external cause
+Y92154,driveway of reform school as the place of occurrence of the external cause
+Y92155,garage of reform school as the place of occurrence of the external cause
+Y92156,swimmingpool of reform school as the place of occurrence of the external cause
+Y92157,garden or yard of reform school as the place of occurrence of the external cause
+Y92158,other place in reform school as the place of occurrence of the external cause
+Y92159,unspecified place in reform school as the place of occurrence of the external cause
+Y92160,kitchen in school dormitory as the place of occurrence of the external cause
+Y92161,dining room in school dormitory as the place of occurrence of the external cause
+Y92162,bathroom in school dormitory as the place of occurrence of the external cause
+Y92163,bedroom in school dormitory as the place of occurrence of the external cause
+Y92168,other place in school dormitory as the place of occurrence of the external cause
+Y92169,unspecified place in school dormitory as the place of occurrence of the external cause
+Y92190,kitchen in other specified residential institution as the place of occurrence of the external cause
+Y92191,dining room in other specified residential institution as the place of occurrence of the external cause
+Y92192,bathroom in other specified residential institution as the place of occurrence of the external cause
+Y92193,bedroom in other specified residential institution as the place of occurrence of the external cause
+Y92194,driveway of other specified residential institution as the place of occurrence of the external cause
+Y92195,garage of other specified residential institution as the place of occurrence of the external cause
+Y92196,pool of other specified residential institution as the place of occurrence of the external cause
+Y92197,garden or yard of other specified residential institution as the place of occurrence of the external cause
+Y92198,other place in other specified residential institution as the place of occurrence of the external cause
+Y92199,unspecified place in other specified residential institution as the place of occurrence of the external cause
+Y92210,daycare center as the place of occurrence of the external cause
+Y92211,elementary school as the place of occurrence of the external cause
+Y92212,middle school as the place of occurrence of the external cause
+Y92213,high school as the place of occurrence of the external cause
+Y92214,college as the place of occurrence of the external cause
+Y92215,trade school as the place of occurrence of the external cause
+Y92218,other school as the place of occurrence of the external cause
+Y92219,unspecified school as the place of occurrence of the external cause
+Y9222,religious institution as the place of occurrence of the external cause
+Y92230,patient room in hospital as the place of occurrence of the external cause
+Y92231,patient bathroom in hospital as the place of occurrence of the external cause
+Y92232,corridor of hospital as the place of occurrence of the external cause
+Y92233,cafeteria of hospital as the place of occurrence of the external cause
+Y92234,operating room of hospital as the place of occurrence of the external cause
+Y92238,other place in hospital as the place of occurrence of the external cause
+Y92239,unspecified place in hospital as the place of occurrence of the external cause
+Y92240,courthouse as the place of occurrence of the external cause
+Y92241,library as the place of occurrence of the external cause
+Y92242,post office as the place of occurrence of the external cause
+Y92243,city hall as the place of occurrence of the external cause
+Y92248,other public administrative building as the place of occurrence of the external cause
+Y92250,art gallery as the place of occurrence of the external cause
+Y92251,museum as the place of occurrence of the external cause
+Y92252,music hall as the place of occurrence of the external cause
+Y92253,opera house as the place of occurrence of the external cause
+Y92254,theater live as the place of occurrence of the external cause
+Y92258,other cultural public building as the place of occurrence of the external cause
+Y9226,movie house or cinema as the place of occurrence of the external cause
+Y9229,other specified public building as the place of occurrence of the external cause
+Y92310,basketball court as the place of occurrence of the external cause
+Y92311,squash court as the place of occurrence of the external cause
+Y92312,tennis court as the place of occurrence of the external cause
+Y92318,other athletic court as the place of occurrence of the external cause
+Y92320,baseball field as the place of occurrence of the external cause
+Y92321,football field as the place of occurrence of the external cause
+Y92322,soccer field as the place of occurrence of the external cause
+Y92328,other athletic field as the place of occurrence of the external cause
+Y92330,ice skating rink indoor outdoor as the place of occurrence of the external cause
+Y92331,roller skating rink as the place of occurrence of the external cause
+Y9234,swimming pool public as the place of occurrence of the external cause
+Y9239,other specified sports and athletic area as the place of occurrence of the external cause
+Y92410,unspecified street and highway as the place of occurrence of the external cause
+Y92411,interstate highway as the place of occurrence of the external cause
+Y92412,parkway as the place of occurrence of the external cause
+Y92413,state road as the place of occurrence of the external cause
+Y92414,local residential or business street as the place of occurrence of the external cause
+Y92415,exit ramp or entrance ramp of street or highway as the place of occurrence of the external cause
+Y92480,sidewalk as the place of occurrence of the external cause
+Y92481,parking lot as the place of occurrence of the external cause
+Y92482,bike path as the place of occurrence of the external cause
+Y92488,other paved roadways as the place of occurrence of the external cause
+Y92510,bank as the place of occurrence of the external cause
+Y92511,restaurant or cafe as the place of occurrence of the external cause
+Y92512,supermarket store or market as the place of occurrence of the external cause
+Y92513,shop commercial as the place of occurrence of the external cause
+Y92520,airport as the place of occurrence of the external cause
+Y92521,bus station as the place of occurrence of the external cause
+Y92522,railway station as the place of occurrence of the external cause
+Y92523,highway rest stop as the place of occurrence of the external cause
+Y92524,gas station as the place of occurrence of the external cause
+Y92530,ambulatory surgery center as the place of occurrence of the external cause
+Y92531,health care provider office as the place of occurrence of the external cause
+Y92532,urgent care center as the place of occurrence of the external cause
+Y92538,other ambulatory health services establishments as the place of occurrence of the external cause
+Y9259,other trade areas as the place of occurrence of the external cause
+Y9261,building any under construction as the place of occurrence of the external cause
+Y9262,dock or shipyard as the place of occurrence of the external cause
+Y9263,factory as the place of occurrence of the external cause
+Y9264,mine or pit as the place of occurrence of the external cause
+Y9265,oil rig as the place of occurrence of the external cause
+Y9269,other specified industrial and construction area as the place of occurrence of the external cause
+Y9271,barn as the place of occurrence of the external cause
+Y9272,chicken coop as the place of occurrence of the external cause
+Y9273,farm field as the place of occurrence of the external cause
+Y9274,orchard as the place of occurrence of the external cause
+Y9279,other farm location as the place of occurrence of the external cause
+Y92810,car as the place of occurrence of the external cause
+Y92811,bus as the place of occurrence of the external cause
+Y92812,truck as the place of occurrence of the external cause
+Y92813,airplane as the place of occurrence of the external cause
+Y92814,boat as the place of occurrence of the external cause
+Y92815,train as the place of occurrence of the external cause
+Y92816,subway car as the place of occurrence of the external cause
+Y92818,other transport vehicle as the place of occurrence of the external cause
+Y92820,desert as the place of occurrence of the external cause
+Y92821,forest as the place of occurrence of the external cause
+Y92828,other wilderness area as the place of occurrence of the external cause
+Y92830,public park as the place of occurrence of the external cause
+Y92831,amusement park as the place of occurrence of the external cause
+Y92832,beach as the place of occurrence of the external cause
+Y92833,campsite as the place of occurrence of the external cause
+Y92834,zoological garden zoo as the place of occurrence of the external cause
+Y92838,other recreation area as the place of occurrence of the external cause
+Y9284,military training ground as the place of occurrence of the external cause
+Y9285,railroad track as the place of occurrence of the external cause
+Y9286,slaughter house as the place of occurrence of the external cause
+Y9289,other specified places as the place of occurrence of the external cause
+Y929,unspecified place or not applicable
+Y93L1,activity splitting wood
+Y93L9,activity other outdoor activity
+Z0000,encounter for general adult medical examination without abnormal findings
+Z0001,encounter for general adult medical examination with abnormal findings
+Z00110,health examination for newborn under 8 days old
+Z00111,health examination for newborn 8 to 28 days old
+Z00121,encounter for routine child health examination with abnormal findings
+Z00129,encounter for routine child health examination without abnormal findings
+Z002,encounter for examination for period of rapid growth in childhood
+Z003,encounter for examination for adolescent development state
+Z005,encounter for examination of potential donor of organ and tissue
+Z006,encounter for examination for normal comparison and control in clinical research program
+Z0070,encounter for examination for period of delayed growth in childhood without abnormal findings
+Z0071,encounter for examination for period of delayed growth in childhood with abnormal findings
+Z008,encounter for other general examination
+Z0100,encounter for examination of eyes and vision without abnormal findings
+Z0101,encounter for examination of eyes and vision with abnormal findings
+Z01020,encounter for examination of eyes and vision following failed vision screening without abnormal findings
+Z01021,encounter for examination of eyes and vision following failed vision screening with abnormal findings
+Z0110,encounter for examination of ears and hearing without abnormal findings
+Z01110,encounter for hearing examination following failed hearing screening
+Z01118,encounter for examination of ears and hearing with other abnormal findings
+Z0112,encounter for hearing conservation and treatment
+Z0120,encounter for dental examination and cleaning without abnormal findings
+Z0121,encounter for dental examination and cleaning with abnormal findings
+Z0130,encounter for examination of blood pressure without abnormal findings
+Z0131,encounter for examination of blood pressure with abnormal findings
+Z01411,encounter for gynecological examination general routine with abnormal findings
+Z01419,encounter for gynecological examination general routine without abnormal findings
+Z0142,encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear
+Z01810,encounter for preprocedural cardiovascular examination
+Z01811,encounter for preprocedural respiratory examination
+Z01812,encounter for preprocedural laboratory examination
+Z01818,encounter for other preprocedural examination
+Z0182,encounter for allergy testing
+Z0183,encounter for blood typing
+Z0184,encounter for antibody response examination
+Z0189,encounter for other specified special examinations
+Z020,encounter for examination for admission to educational institution
+Z021,encounter for preemployment examination
+Z022,encounter for examination for admission to residential institution
+Z023,encounter for examination for recruitment to armed forces
+Z024,encounter for examination for driving license
+Z025,encounter for examination for participation in sport
+Z026,encounter for examination for insurance purposes
+Z0271,encounter for disability determination
+Z0279,encounter for issue of other medical certificate
+Z0281,encounter for paternity testing
+Z0282,encounter for adoption services
+Z0283,encounter for bloodalcohol and blooddrug test
+Z0284,encounter for child welfare exam
+Z0289,encounter for other administrative examinations
+Z029,encounter for administrative examinations unspecified
+Z036,encounter for observation for suspected toxic effect from ingested substance ruled out
+Z0371,encounter for suspected problem with amniotic cavity and membrane ruled out
+Z0372,encounter for suspected placental problem ruled out
+Z0373,encounter for suspected fetal anomaly ruled out
+Z0374,encounter for suspected problem with fetal growth ruled out
+Z0375,encounter for suspected cervical shortening ruled out
+Z0379,encounter for other suspected maternal and fetal conditions ruled out
+Z03810,encounter for observation for suspected exposure to anthrax ruled out
+Z03818,encounter for observation for suspected exposure to other biological agents ruled out
+Z03821,encounter for observation for suspected ingested foreign body ruled out
+Z03822,encounter for observation for suspected aspirated inhaled foreign body ruled out
+Z03823,encounter for observation for suspected inserted injected foreign body ruled out
+Z0383,encounter for observation for suspected conditions related to home physiologic monitoring device ruled out
+Z0389,encounter for observation for other suspected diseases and conditions ruled out
+Z041,encounter for examination and observation following transport accident
+Z042,encounter for examination and observation following work accident
+Z043,encounter for examination and observation following other accident
+Z0441,encounter for examination and observation following alleged adult rape
+Z0442,encounter for examination and observation following alleged child rape
+Z046,encounter for general psychiatric examination requested by authority
+Z0471,encounter for examination and observation following alleged adult physical abuse
+Z0472,encounter for examination and observation following alleged child physical abuse
+Z0481,encounter for examination and observation of victim following forced sexual exploitation
+Z0482,encounter for examination and observation of victim following forced labor exploitation
+Z0489,encounter for examination and observation for other specified reasons
+Z049,encounter for examination and observation for unspecified reason
+Z050,observation and evaluation of newborn for suspected cardiac condition ruled out
+Z051,observation and evaluation of newborn for suspected infectious condition ruled out
+Z052,observation and evaluation of newborn for suspected neurological condition ruled out
+Z053,observation and evaluation of newborn for suspected respiratory condition ruled out
+Z0541,observation and evaluation of newborn for suspected genetic condition ruled out
+Z0542,observation and evaluation of newborn for suspected metabolic condition ruled out
+Z0543,observation and evaluation of newborn for suspected immunologic condition ruled out
+Z055,observation and evaluation of newborn for suspected gastrointestinal condition ruled out
+Z056,observation and evaluation of newborn for suspected genitourinary condition ruled out
+Z0571,observation and evaluation of newborn for suspected skin and subcutaneous tissue condition ruled out
+Z0572,observation and evaluation of newborn for suspected musculoskeletal condition ruled out
+Z0573,observation and evaluation of newborn for suspected connective tissue condition ruled out
+Z0581,observation and evaluation of newborn for suspected condition related to home physiologic monitoring device ruled out
+Z0589,observation and evaluation of newborn for other specified suspected condition ruled out
+Z059,observation and evaluation of newborn for unspecified suspected condition ruled out
+Z08,encounter for followup examination after completed treatment for malignant neoplasm
+Z09,encounter for followup examination after completed treatment for conditions other than malignant neoplasm
+Z110,encounter for screening for intestinal infectious diseases
+Z111,encounter for screening for respiratory tuberculosis
+Z112,encounter for screening for other bacterial diseases
+Z113,encounter for screening for infections with a predominantly sexual mode of transmission
+Z114,encounter for screening for human immunodeficiency virus hiv
+Z1151,encounter for screening for human papillomavirus hpv
+Z1152,encounter for screening for covid19
+Z1159,encounter for screening for other viral diseases
+Z116,encounter for screening for other protozoal diseases and helminthiases
+Z117,encounter for testing for latent tuberculosis infection
+Z118,encounter for screening for other infectious and parasitic diseases
+Z119,encounter for screening for infectious and parasitic diseases unspecified
+Z120,encounter for screening for malignant neoplasm of stomach
+Z1210,encounter for screening for malignant neoplasm of intestinal tract unspecified
+Z1211,encounter for screening for malignant neoplasm of colon
+Z1212,encounter for screening for malignant neoplasm of rectum
+Z1213,encounter for screening for malignant neoplasm of small intestine
+Z122,encounter for screening for malignant neoplasm of respiratory organs
+Z1231,encounter for screening mammogram for malignant neoplasm of breast
+Z1239,encounter for other screening for malignant neoplasm of breast
+Z124,encounter for screening for malignant neoplasm of cervix
+Z125,encounter for screening for malignant neoplasm of prostate
+Z126,encounter for screening for malignant neoplasm of bladder
+Z1271,encounter for screening for malignant neoplasm of testis
+Z1272,encounter for screening for malignant neoplasm of vagina
+Z1273,encounter for screening for malignant neoplasm of ovary
+Z1279,encounter for screening for malignant neoplasm of other genitourinary organs
+Z1281,encounter for screening for malignant neoplasm of oral cavity
+Z1282,encounter for screening for malignant neoplasm of nervous system
+Z1283,encounter for screening for malignant neoplasm of skin
+Z1289,encounter for screening for malignant neoplasm of other sites
+Z129,encounter for screening for malignant neoplasm site unspecified
+Z130,encounter for screening for diseases of the blood and bloodforming organs and certain disorders involving the immune mechanism
+Z131,encounter for screening for diabetes mellitus
+Z1321,encounter for screening for nutritional disorder
+Z13220,encounter for screening for lipoid disorders
+Z13228,encounter for screening for other metabolic disorders
+Z1329,encounter for screening for other suspected endocrine disorder
+Z1330,encounter for screening examination for mental health and behavioral disorders unspecified
+Z1331,encounter for screening for depression
+Z1332,encounter for screening for maternal depression
+Z1339,encounter for screening examination for other mental health and behavioral disorders
+Z1340,encounter for screening for unspecified developmental delays
+Z1341,encounter for autism screening
+Z1342,encounter for screening for global developmental delays milestones
+Z1349,encounter for screening for other developmental delays
+Z135,encounter for screening for eye and ear disorders
+Z136,encounter for screening for cardiovascular disorders
+Z1371,encounter for nonprocreative screening for genetic disease carrier status
+Z1379,encounter for other screening for genetic and chromosomal anomalies
+Z13810,encounter for screening for upper gastrointestinal disorder
+Z13811,encounter for screening for lower gastrointestinal disorder
+Z13818,encounter for screening for other digestive system disorders
+Z13820,encounter for screening for osteoporosis
+Z13828,encounter for screening for other musculoskeletal disorder
+Z1383,encounter for screening for respiratory disorder nec
+Z1384,encounter for screening for dental disorders
+Z13850,encounter for screening for traumatic brain injury
+Z13858,encounter for screening for other nervous system disorders
+Z1388,encounter for screening for disorder due to exposure to contaminants
+Z1389,encounter for screening for other disorder
+Z139,encounter for screening unspecified
+Z1401,asymptomatic hemophilia a carrier
+Z1402,symptomatic hemophilia a carrier
+Z141,cystic fibrosis carrier
+Z148,genetic carrier of other disease
+Z1501,genetic susceptibility to malignant neoplasm of breast
+Z1502,genetic susceptibility to malignant neoplasm of ovary
+Z1503,genetic susceptibility to malignant neoplasm of prostate
+Z1504,genetic susceptibility to malignant neoplasm of endometrium
+Z1505,genetic susceptibility to malignant neoplasm of fallopian tubes
+Z15060,genetic susceptibility to colorectal cancer
+Z15068,genetic susceptibility to other malignant neoplasm of digestive system
+Z1507,genetic susceptibility to malignant neoplasm of urinary tract
+Z1509,genetic susceptibility to other malignant neoplasm
+Z151,genetic susceptibility to epilepsy and neurodevelopmental disorders
+Z152,genetic susceptibility to obesity
+Z153,genetic susceptibility to kidney disease
+Z1581,genetic susceptibility to multiple endocrine neoplasia men
+Z1589,genetic susceptibility to other disease
+Z1610,resistance to unspecified beta lactam antibiotics
+Z1611,resistance to penicillins
+Z1612,extended spectrum beta lactamase esbl resistance
+Z1613,resistance to carbapenem
+Z1619,resistance to other specified beta lactam antibiotics
+Z1620,resistance to unspecified antibiotic
+Z1621,resistance to vancomycin
+Z1622,resistance to vancomycin related antibiotics
+Z1623,resistance to quinolones and fluoroquinolones
+Z1624,resistance to multiple antibiotics
+Z1629,resistance to other single specified antibiotic
+Z1630,resistance to unspecified antimicrobial drugs
+Z1631,resistance to antiparasitic drugs
+Z1632,resistance to antifungal drugs
+Z1633,resistance to antiviral drugs
+Z16341,resistance to single antimycobacterial drug
+Z16342,resistance to multiple antimycobacterial drugs
+Z1635,resistance to multiple antimicrobial drugs
+Z1639,resistance to other specified antimicrobial drug
+Z170,estrogen receptor positive status er+
+Z171,estrogen receptor negative status er
+Z1721,progesterone receptor positive status
+Z1722,progesterone receptor negative status
+Z1731,human epidermal growth factor receptor 2 positive status
+Z1732,human epidermal growth factor receptor 2 negative status
+Z17410,hormone receptor positive with human epidermal growth factor receptor 2 positive status
+Z17411,hormone receptor positive with human epidermal growth factor receptor 2 negative status
+Z17420,hormone receptor negative with human epidermal growth factor receptor 2 positive status
+Z17421,hormone receptor negative with human epidermal growth factor receptor 2 negative status
+Z1801,retained depleted uranium fragments
+Z1809,other retained radioactive fragments
+Z1810,retained metal fragments unspecified
+Z1811,retained magnetic metal fragments
+Z1812,retained nonmagnetic metal fragments
+Z182,retained plastic fragments
+Z1831,retained animal quills or spines
+Z1832,retained tooth
+Z1833,retained wood fragments
+Z1839,other retained organic fragments
+Z1881,retained glass fragments
+Z1883,retained stone or crystalline fragments
+Z1889,other specified retained foreign body fragments
+Z189,retained foreign body fragments unspecified material
+Z191,hormone sensitive malignancy status
+Z192,hormone resistant malignancy status
+Z2001,contact with and suspected exposure to intestinal infectious diseases due to escherichia coli e coli
+Z2009,contact with and suspected exposure to other intestinal infectious diseases
+Z201,contact with and suspected exposure to tuberculosis
+Z202,contact with and suspected exposure to infections with a predominantly sexual mode of transmission
+Z203,contact with and suspected exposure to rabies
+Z204,contact with and suspected exposure to rubella
+Z205,contact with and suspected exposure to viral hepatitis
+Z206,contact with and suspected exposure to human immunodeficiency virus hiv
+Z207,contact with and suspected exposure to pediculosis acariasis and other infestations
+Z20810,contact with and suspected exposure to anthrax
+Z20811,contact with and suspected exposure to meningococcus
+Z20818,contact with and suspected exposure to other bacterial communicable diseases
+Z20820,contact with and suspected exposure to varicella
+Z20821,contact with and suspected exposure to zika virus
+Z20822,contact with and suspected exposure to covid19
+Z20828,contact with and suspected exposure to other viral communicable diseases
+Z2089,contact with and suspected exposure to other communicable diseases
+Z209,contact with and suspected exposure to unspecified communicable disease
+Z21,asymptomatic human immunodeficiency virus hiv infection status
+Z220,carrier of typhoid
+Z221,carrier of other intestinal infectious diseases
+Z222,carrier of diphtheria
+Z2231,carrier of bacterial disease due to meningococci
+Z22321,carrier or suspected carrier of methicillin susceptible staphylococcus aureus
+Z22322,carrier or suspected carrier of methicillin resistant staphylococcus aureus
+Z22330,carrier of group b streptococcus
+Z22338,carrier of other streptococcus
+Z22340,carrier of carbapenemresistant acinetobacter baumannii
+Z22341,carrier of carbapenemsensitive acinetobacter baumannii
+Z22349,carrier of acinetobacter baumannii unspecified
+Z22350,carrier of carbapenemresistant enterobacterales
+Z22358,carrier of other enterobacterales
+Z22359,carrier of enterobacterales unspecified
+Z2239,carrier of other specified bacterial diseases
+Z224,carrier of infections with a predominantly sexual mode of transmission
+Z226,carrier of human tlymphotropic virus type1 htlv1 infection
+Z227,latent tuberculosis
+Z228,carrier of other infectious diseases
+Z229,carrier of infectious disease unspecified
+Z23,encounter for immunization
+Z2801,immunization not carried out because of acute illness of patient
+Z2802,immunization not carried out because of chronic illness or condition of patient
+Z2803,immunization not carried out because of immune compromised state of patient
+Z2804,immunization not carried out because of patient allergy to vaccine or component
+Z2809,immunization not carried out because of other contraindication
+Z281,immunization not carried out because of patient decision for reasons of belief or group pressure
+Z2820,immunization not carried out because of patient decision for unspecified reason
+Z2821,immunization not carried out because of patient refusal
+Z2829,immunization not carried out because of patient decision for other reason
+Z28310,unvaccinated for covid19
+Z28311,partially vaccinated for covid19
+Z2839,other underimmunization status
+Z2881,immunization not carried out due to patient having had the disease
+Z2882,immunization not carried out because of caregiver refusal
+Z2883,immunization not carried out due to unavailability of vaccine
+Z2889,immunization not carried out for other reason
+Z289,immunization not carried out for unspecified reason
+Z2911,encounter for prophylactic immunotherapy for respiratory syncytial virus rsv
+Z2912,encounter for prophylactic antivenin
+Z2913,encounter for prophylactic rhod immune globulin
+Z2914,encounter for prophylactic rabies immune globin
+Z293,encounter for prophylactic fluoride administration
+Z2981,encounter for hiv preexposure prophylaxis
+Z2989,encounter for other specified prophylactic measures
+Z299,encounter for prophylactic measures unspecified
+Z30011,encounter for initial prescription of contraceptive pills
+Z30012,encounter for prescription of emergency contraception
+Z30013,encounter for initial prescription of injectable contraceptive
+Z30014,encounter for initial prescription of intrauterine contraceptive device
+Z30015,encounter for initial prescription of vaginal ring hormonal contraceptive
+Z30016,encounter for initial prescription of transdermal patch hormonal contraceptive device
+Z30017,encounter for initial prescription of implantable subdermal contraceptive
+Z30018,encounter for initial prescription of other contraceptives
+Z30019,encounter for initial prescription of contraceptives unspecified
+Z3002,counseling and instruction in natural family planning to avoid pregnancy
+Z3009,encounter for other general counseling and advice on contraception
+Z302,encounter for sterilization
+Z3040,encounter for surveillance of contraceptives unspecified
+Z3041,encounter for surveillance of contraceptive pills
+Z3042,encounter for surveillance of injectable contraceptive
+Z30430,encounter for insertion of intrauterine contraceptive device
+Z30431,encounter for routine checking of intrauterine contraceptive device
+Z30432,encounter for removal of intrauterine contraceptive device
+Z30433,encounter for removal and reinsertion of intrauterine contraceptive device
+Z3044,encounter for surveillance of vaginal ring hormonal contraceptive device
+Z3045,encounter for surveillance of transdermal patch hormonal contraceptive device
+Z3046,encounter for surveillance of implantable subdermal contraceptive
+Z3049,encounter for surveillance of other contraceptives
+Z308,encounter for other contraceptive management
+Z309,encounter for contraceptive management unspecified
+Z310,encounter for reversal of previous sterilization
+Z3141,encounter for fertility testing
+Z3142,aftercare following sterilization reversal
+Z31430,encounter of female for testing for genetic disease carrier status for procreative management
+Z31438,encounter for other genetic testing of female for procreative management
+Z31440,encounter of male for testing for genetic disease carrier status for procreative management
+Z31441,encounter for testing of male partner of patient with recurrent pregnancy loss
+Z31448,encounter for other genetic testing of male for procreative management
+Z3149,encounter for other procreative investigation and testing
+Z315,encounter for procreative genetic counseling
+Z3161,procreative counseling and advice using natural family planning
+Z3162,encounter for fertility preservation counseling
+Z3169,encounter for other general counseling and advice on procreation
+Z317,encounter for procreative management and counseling for gestational carrier
+Z3181,encounter for male factor infertility in female patient
+Z3182,encounter for rh incompatibility status
+Z3183,encounter for assisted reproductive fertility procedure cycle
+Z3184,encounter for fertility preservation procedure
+Z3189,encounter for other procreative management
+Z319,encounter for procreative management unspecified
+Z3200,encounter for pregnancy test result unknown
+Z3201,encounter for pregnancy test result positive
+Z3202,encounter for pregnancy test result negative
+Z322,encounter for childbirth instruction
+Z323,encounter for childcare instruction
+Z331,pregnant state incidental
+Z332,encounter for elective termination of pregnancy
+Z333,pregnant state gestational carrier
+Z3400,encounter for supervision of normal first pregnancy unspecified trimester
+Z3401,encounter for supervision of normal first pregnancy first trimester
+Z3402,encounter for supervision of normal first pregnancy second trimester
+Z3403,encounter for supervision of normal first pregnancy third trimester
+Z3480,encounter for supervision of other normal pregnancy unspecified trimester
+Z3481,encounter for supervision of other normal pregnancy first trimester
+Z3482,encounter for supervision of other normal pregnancy second trimester
+Z3483,encounter for supervision of other normal pregnancy third trimester
+Z3490,encounter for supervision of normal pregnancy unspecified unspecified trimester
+Z3491,encounter for supervision of normal pregnancy unspecified first trimester
+Z3492,encounter for supervision of normal pregnancy unspecified second trimester
+Z3493,encounter for supervision of normal pregnancy unspecified third trimester
+Z360,encounter for antenatal screening for chromosomal anomalies
+Z361,encounter for antenatal screening for raised alphafetoprotein level
+Z362,encounter for other antenatal screening followup
+Z363,encounter for antenatal screening for malformations
+Z364,encounter for antenatal screening for fetal growth retardation
+Z365,encounter for antenatal screening for isoimmunization
+Z3681,encounter for antenatal screening for hydrops fetalis
+Z3682,encounter for antenatal screening for nuchal translucency
+Z3683,encounter for fetal screening for congenital cardiac abnormalities
+Z3684,encounter for antenatal screening for fetal lung maturity
+Z3685,encounter for antenatal screening for streptococcus b
+Z3686,encounter for antenatal screening for cervical length
+Z3687,encounter for antenatal screening for uncertain dates
+Z3688,encounter for antenatal screening for fetal macrosomia
+Z3689,encounter for other specified antenatal screening
+Z368A,encounter for antenatal screening for other genetic defects
+Z369,encounter for antenatal screening unspecified
+Z3A00,weeks of gestation of pregnancy not specified
+Z3A01,less than 8 weeks gestation of pregnancy
+Z3A08,8 weeks gestation of pregnancy
+Z3A09,9 weeks gestation of pregnancy
+Z3A10,10 weeks gestation of pregnancy
+Z3A11,11 weeks gestation of pregnancy
+Z3A12,12 weeks gestation of pregnancy
+Z3A13,13 weeks gestation of pregnancy
+Z3A14,14 weeks gestation of pregnancy
+Z3A15,15 weeks gestation of pregnancy
+Z3A16,16 weeks gestation of pregnancy
+Z3A17,17 weeks gestation of pregnancy
+Z3A18,18 weeks gestation of pregnancy
+Z3A19,19 weeks gestation of pregnancy
+Z3A20,20 weeks gestation of pregnancy
+Z3A21,21 weeks gestation of pregnancy
+Z3A22,22 weeks gestation of pregnancy
+Z3A23,23 weeks gestation of pregnancy
+Z3A24,24 weeks gestation of pregnancy
+Z3A25,25 weeks gestation of pregnancy
+Z3A26,26 weeks gestation of pregnancy
+Z3A27,27 weeks gestation of pregnancy
+Z3A28,28 weeks gestation of pregnancy
+Z3A29,29 weeks gestation of pregnancy
+Z3A30,30 weeks gestation of pregnancy
+Z3A31,31 weeks gestation of pregnancy
+Z3A32,32 weeks gestation of pregnancy
+Z3A33,33 weeks gestation of pregnancy
+Z3A34,34 weeks gestation of pregnancy
+Z3A35,35 weeks gestation of pregnancy
+Z3A36,36 weeks gestation of pregnancy
+Z3A37,37 weeks gestation of pregnancy
+Z3A38,38 weeks gestation of pregnancy
+Z3A39,39 weeks gestation of pregnancy
+Z3A40,40 weeks gestation of pregnancy
+Z3A41,41 weeks gestation of pregnancy
+Z3A42,42 weeks gestation of pregnancy
+Z3A49,greater than 42 weeks gestation of pregnancy
+Z370,single live birth
+Z371,single stillbirth
+Z372,twins both liveborn
+Z373,twins one liveborn and one stillborn
+Z374,twins both stillborn
+Z3750,multiple births unspecified all liveborn
+Z3751,triplets all liveborn
+Z3752,quadruplets all liveborn
+Z3753,quintuplets all liveborn
+Z3754,sextuplets all liveborn
+Z3759,other multiple births all liveborn
+Z3760,multiple births unspecified some liveborn
+Z3761,triplets some liveborn
+Z3762,quadruplets some liveborn
+Z3763,quintuplets some liveborn
+Z3764,sextuplets some liveborn
+Z3769,other multiple births some liveborn
+Z377,other multiple births all stillborn
+Z379,outcome of delivery unspecified
+Z3800,single liveborn infant delivered vaginally
+Z3801,single liveborn infant delivered by cesarean
+Z381,single liveborn infant born outside hospital
+Z382,single liveborn infant unspecified as to place of birth
+Z3830,twin liveborn infant delivered vaginally
+Z3831,twin liveborn infant delivered by cesarean
+Z384,twin liveborn infant born outside hospital
+Z385,twin liveborn infant unspecified as to place of birth
+Z3861,triplet liveborn infant delivered vaginally
+Z3862,triplet liveborn infant delivered by cesarean
+Z3863,quadruplet liveborn infant delivered vaginally
+Z3864,quadruplet liveborn infant delivered by cesarean
+Z3865,quintuplet liveborn infant delivered vaginally
+Z3866,quintuplet liveborn infant delivered by cesarean
+Z3868,other multiple liveborn infant delivered vaginally
+Z3869,other multiple liveborn infant delivered by cesarean
+Z387,other multiple liveborn infant born outside hospital
+Z388,other multiple liveborn infant unspecified as to place of birth
+Z390,encounter for care and examination of mother immediately after delivery
+Z391,encounter for care and examination of lactating mother
+Z392,encounter for routine postpartum followup
+Z4000,encounter for prophylactic removal of unspecified organ
+Z4001,encounter for prophylactic removal of breast
+Z4002,encounter for prophylactic removal of ovarys
+Z4003,encounter for prophylactic removal of fallopian tubes
+Z4009,encounter for prophylactic removal of other organ
+Z4081,encounter for prophylactic surgery for removal of ovarys for persons without known geneticfamilial risk factors
+Z4082,encounter for prophylactic surgery for removal of fallopian tubes for persons without known geneticfamilial risk factors
+Z4089,encounter for other prophylactic surgery
+Z409,encounter for prophylactic surgery unspecified
+Z411,encounter for cosmetic surgery
+Z412,encounter for routine and ritual male circumcision
+Z413,encounter for ear piercing
+Z418,encounter for other procedures for purposes other than remedying health state
+Z419,encounter for procedure for purposes other than remedying health state unspecified
+Z421,encounter for breast reconstruction following mastectomy
+Z428,encounter for other plastic and reconstructive surgery following medical procedure or healed injury
+Z430,encounter for attention to tracheostomy
+Z431,encounter for attention to gastrostomy
+Z432,encounter for attention to ileostomy
+Z433,encounter for attention to colostomy
+Z434,encounter for attention to other artificial openings of digestive tract
+Z435,encounter for attention to cystostomy
+Z436,encounter for attention to other artificial openings of urinary tract
+Z437,encounter for attention to artificial vagina
+Z438,encounter for attention to other artificial openings
+Z439,encounter for attention to unspecified artificial opening
+Z44001,encounter for fitting and adjustment of unspecified right artificial arm
+Z44002,encounter for fitting and adjustment of unspecified left artificial arm
+Z44009,encounter for fitting and adjustment of unspecified artificial arm unspecified arm
+Z44011,encounter for fitting and adjustment of complete right artificial arm
+Z44012,encounter for fitting and adjustment of complete left artificial arm
+Z44019,encounter for fitting and adjustment of complete artificial arm unspecified arm
+Z44021,encounter for fitting and adjustment of partial artificial right arm
+Z44022,encounter for fitting and adjustment of partial artificial left arm
+Z44029,encounter for fitting and adjustment of partial artificial arm unspecified arm
+Z44101,encounter for fitting and adjustment of unspecified right artificial leg
+Z44102,encounter for fitting and adjustment of unspecified left artificial leg
+Z44109,encounter for fitting and adjustment of unspecified artificial leg unspecified leg
+Z44111,encounter for fitting and adjustment of complete right artificial leg
+Z44112,encounter for fitting and adjustment of complete left artificial leg
+Z44119,encounter for fitting and adjustment of complete artificial leg unspecified leg
+Z44121,encounter for fitting and adjustment of partial artificial right leg
+Z44122,encounter for fitting and adjustment of partial artificial left leg
+Z44129,encounter for fitting and adjustment of partial artificial leg unspecified leg
+Z4420,encounter for fitting and adjustment of artificial eye unspecified
+Z4421,encounter for fitting and adjustment of artificial right eye
+Z4422,encounter for fitting and adjustment of artificial left eye
+Z4430,encounter for fitting and adjustment of external breast prosthesis unspecified breast
+Z4431,encounter for fitting and adjustment of external right breast prosthesis
+Z4432,encounter for fitting and adjustment of external left breast prosthesis
+Z448,encounter for fitting and adjustment of other external prosthetic devices
+Z449,encounter for fitting and adjustment of unspecified external prosthetic device
+Z45010,encounter for checking and testing of cardiac pacemaker pulse generator battery
+Z45018,encounter for adjustment and management of other part of cardiac pacemaker
+Z4502,encounter for adjustment and management of automatic implantable cardiac defibrillator
+Z4509,encounter for adjustment and management of other cardiac device
+Z451,encounter for adjustment and management of infusion pump
+Z452,encounter for adjustment and management of vascular access device
+Z4531,encounter for adjustment and management of implanted visual substitution device
+Z45320,encounter for adjustment and management of bone conduction device
+Z45321,encounter for adjustment and management of cochlear device
+Z45328,encounter for adjustment and management of other implanted hearing device
+Z4541,encounter for adjustment and management of cerebrospinal fluid drainage device
+Z4542,encounter for adjustment and management of neurostimulator
+Z4549,encounter for adjustment and management of other implanted nervous system device
+Z45811,encounter for adjustment or removal of right breast implant
+Z45812,encounter for adjustment or removal of left breast implant
+Z45819,encounter for adjustment or removal of unspecified breast implant
+Z4582,encounter for adjustment or removal of myringotomy device stent tube
+Z4589,encounter for adjustment and management of other implanted devices
+Z459,encounter for adjustment and management of unspecified implanted device
+Z460,encounter for fitting and adjustment of spectacles and contact lenses
+Z461,encounter for fitting and adjustment of hearing aid
+Z462,encounter for fitting and adjustment of other devices related to nervous system and special senses
+Z463,encounter for fitting and adjustment of dental prosthetic device
+Z464,encounter for fitting and adjustment of orthodontic device
+Z4651,encounter for fitting and adjustment of gastric lap band
+Z4659,encounter for fitting and adjustment of other gastrointestinal appliance and device
+Z466,encounter for fitting and adjustment of urinary device
+Z4681,encounter for fitting and adjustment of insulin pump
+Z4682,encounter for fitting and adjustment of nonvascular catheter
+Z4689,encounter for fitting and adjustment of other specified devices
+Z469,encounter for fitting and adjustment of unspecified device
+Z471,aftercare following joint replacement surgery
+Z472,encounter for removal of internal fixation device
+Z4731,aftercare following explantation of shoulder joint prosthesis
+Z4732,aftercare following explantation of hip joint prosthesis
+Z4733,aftercare following explantation of knee joint prosthesis
+Z4781,encounter for orthopedic aftercare following surgical amputation
+Z4782,encounter for orthopedic aftercare following scoliosis surgery
+Z4789,encounter for other orthopedic aftercare
+Z4800,encounter for change or removal of nonsurgical wound dressing
+Z4801,encounter for change or removal of surgical wound dressing
+Z4802,encounter for removal of sutures
+Z4803,encounter for change or removal of drains
+Z481,encounter for planned postprocedural wound closure
+Z4821,encounter for aftercare following heart transplant
+Z4822,encounter for aftercare following kidney transplant
+Z4823,encounter for aftercare following liver transplant
+Z4824,encounter for aftercare following lung transplant
+Z48280,encounter for aftercare following heartlung transplant
+Z48288,encounter for aftercare following multiple organ transplant
+Z48290,encounter for aftercare following bone marrow transplant
+Z48298,encounter for aftercare following other organ transplant
+Z483,aftercare following surgery for neoplasm
+Z48810,encounter for surgical aftercare following surgery on the sense organs
+Z48811,encounter for surgical aftercare following surgery on the nervous system
+Z48812,encounter for surgical aftercare following surgery on the circulatory system
+Z48813,encounter for surgical aftercare following surgery on the respiratory system
+Z48814,encounter for surgical aftercare following surgery on the teeth or oral cavity
+Z48815,encounter for surgical aftercare following surgery on the digestive system
+Z48816,encounter for surgical aftercare following surgery on the genitourinary system
+Z48817,encounter for surgical aftercare following surgery on the skin and subcutaneous tissue
+Z4889,encounter for other specified surgical aftercare
+Z4901,encounter for fitting and adjustment of extracorporeal dialysis catheter
+Z4902,encounter for fitting and adjustment of peritoneal dialysis catheter
+Z4931,encounter for adequacy testing for hemodialysis
+Z4932,encounter for adequacy testing for peritoneal dialysis
+Z510,encounter for antineoplastic radiation therapy
+Z5111,encounter for antineoplastic chemotherapy
+Z5112,encounter for antineoplastic immunotherapy
+Z515,encounter for palliative care
+Z516,encounter for desensitization to allergens
+Z5181,encounter for therapeutic drug level monitoring
+Z5189,encounter for other specified aftercare
+Z51A,encounter for sepsis aftercare
+Z52000,unspecified donor whole blood
+Z52001,unspecified donor stem cells
+Z52008,unspecified donor other blood
+Z52010,autologous donor whole blood
+Z52011,autologous donor stem cells
+Z52018,autologous donor other blood
+Z52090,other blood donor whole blood
+Z52091,other blood donor stem cells
+Z52098,other blood donor other blood
+Z5210,skin donor unspecified
+Z5211,skin donor autologous
+Z5219,skin donor other
+Z5220,bone donor unspecified
+Z5221,bone donor autologous
+Z5229,bone donor other
+Z523,bone marrow donor
+Z524,kidney donor
+Z525,cornea donor
+Z526,liver donor
+Z52810,egg oocyte donor under age 35 anonymous recipient
+Z52811,egg oocyte donor under age 35 designated recipient
+Z52812,egg oocyte donor age 35 and over anonymous recipient
+Z52813,egg oocyte donor age 35 and over designated recipient
+Z52819,egg oocyte donor unspecified
+Z5289,donor of other specified organs or tissues
+Z529,donor of unspecified organ or tissue
+Z5301,procedure and treatment not carried out due to patient smoking
+Z5309,procedure and treatment not carried out because of other contraindication
+Z531,procedure and treatment not carried out because of patients decision for reasons of belief and group pressure
+Z5320,procedure and treatment not carried out because of patients decision for unspecified reasons
+Z5321,procedure and treatment not carried out due to patient leaving prior to being seen by health care provider
+Z5329,procedure and treatment not carried out because of patients decision for other reasons
+Z5331,laparoscopic surgical procedure converted to open procedure
+Z5332,thoracoscopic surgical procedure converted to open procedure
+Z5333,arthroscopic surgical procedure converted to open procedure
+Z5339,other specified procedure converted to open procedure
+Z538,procedure and treatment not carried out for other reasons
+Z539,procedure and treatment not carried out unspecified reason
+Z550,illiteracy and lowlevel literacy
+Z551,schooling unavailable and unattainable
+Z552,failed school examinations
+Z553,underachievement in school
+Z554,educational maladjustment and discord with teachers and classmates
+Z555,less than a high school diploma
+Z556,problems related to health literacy
+Z558,other problems related to education and literacy
+Z559,problems related to education and literacy unspecified
+Z560,unemployment unspecified
+Z561,change of job
+Z562,threat of job loss
+Z563,stressful work schedule
+Z564,discord with boss and workmates
+Z565,uncongenial work environment
+Z566,other physical and mental strain related to work
+Z5681,sexual harassment on the job
+Z5682,military deployment status
+Z5689,other problems related to employment
+Z569,unspecified problems related to employment
+Z570,occupational exposure to noise
+Z571,occupational exposure to radiation
+Z572,occupational exposure to dust
+Z5731,occupational exposure to environmental tobacco smoke
+Z5739,occupational exposure to other air contaminants
+Z574,occupational exposure to toxic agents in agriculture
+Z575,occupational exposure to toxic agents in other industries
+Z576,occupational exposure to extreme temperature
+Z577,occupational exposure to vibration
+Z578,occupational exposure to other risk factors
+Z579,occupational exposure to unspecified risk factor
+Z586,inadequate drinkingwater supply
+Z5881,basic services unavailable in physical environment
+Z5889,other problems related to physical environment
+Z5900,homelessness unspecified
+Z5901,sheltered homelessness
+Z5902,unsheltered homelessness
+Z5910,inadequate housing unspecified
+Z5911,inadequate housing environmental temperature
+Z5912,inadequate housing utilities
+Z5919,other inadequate housing
+Z592,discord with neighbors lodgers and landlord
+Z593,problems related to living in residential institution
+Z5941,food insecurity
+Z5948,other specified lack of adequate food
+Z595,extreme poverty
+Z596,low income
+Z5971,insufficient health insurance coverage
+Z5972,insufficient welfare support
+Z59811,housing instability housed with risk of homelessness
+Z59812,housing instability housed homelessness in past 12 months
+Z59819,housing instability housed unspecified
+Z5982,transportation insecurity
+Z59861,financial insecurity difficulty paying for utilities
+Z59868,other specified financial insecurity
+Z59869,financial insecurity unspecified
+Z5987,material hardship due to limited financial resources not elsewhere classified
+Z5989,other problems related to housing and economic circumstances
+Z599,problem related to housing and economic circumstances unspecified
+Z600,problems of adjustment to lifecycle transitions
+Z602,problems related to living alone
+Z603,acculturation difficulty
+Z604,social exclusion and rejection
+Z605,target of perceived adverse discrimination and persecution
+Z608,other problems related to social environment
+Z609,problem related to social environment unspecified
+Z620,inadequate parental supervision and control
+Z621,parental overprotection
+Z6221,child in welfare custody
+Z6222,institutional upbringing
+Z6223,child in custody of nonparental relative
+Z6224,child in custody of nonrelative guardian
+Z6229,other upbringing away from parents
+Z623,hostility towards and scapegoating of child
+Z626,inappropriate excessive parental pressure
+Z62810,personal history of physical and sexual abuse in childhood
+Z62811,personal history of psychological abuse in childhood
+Z62812,personal history of neglect in childhood
+Z62813,personal history of forced labor or sexual exploitation in childhood
+Z62814,personal history of child financial abuse
+Z62815,personal history of intimate partner abuse in childhood
+Z62819,personal history of unspecified abuse in childhood
+Z62820,parentbiological child conflict
+Z62821,parentadopted child conflict
+Z62822,parentfoster child conflict
+Z62823,parentstep child conflict
+Z62831,nonparental relativechild conflict
+Z62832,nonrelative guardianchild conflict
+Z62833,group home staffchild conflict
+Z62890,parentchild estrangement nec
+Z62891,sibling rivalry
+Z62892,runaway from current living environment
+Z62898,other specified problems related to upbringing
+Z629,problem related to upbringing unspecified
+Z630,problems in relationship with spouse or partner
+Z631,problems in relationship with inlaws
+Z6331,absence of family member due to military deployment
+Z6332,other absence of family member
+Z634,disappearance and death of family member
+Z635,disruption of family by separation and divorce
+Z636,dependent relative needing care at home
+Z6371,stress on family due to return of family member from military deployment
+Z6372,alcoholism and drug addiction in family
+Z6379,other stressful life events affecting family and household
+Z638,other specified problems related to primary support group
+Z639,problem related to primary support group unspecified
+Z640,problems related to unwanted pregnancy
+Z641,problems related to multiparity
+Z644,discord with counselors
+Z650,conviction in civil and criminal proceedings without imprisonment
+Z651,imprisonment and other incarceration
+Z652,problems related to release from prison
+Z653,problems related to other legal circumstances
+Z654,victim of crime and terrorism
+Z655,exposure to disaster war and other hostilities
+Z658,other specified problems related to psychosocial circumstances
+Z659,problem related to unspecified psychosocial circumstances
+Z66,do not resuscitate
+Z6710,type a blood rh positive
+Z6711,type a blood rh negative
+Z6720,type b blood rh positive
+Z6721,type b blood rh negative
+Z6730,type ab blood rh positive
+Z6731,type ab blood rh negative
+Z6740,type o blood rh positive
+Z6741,type o blood rh negative
+Z6790,unspecified blood type rh positive
+Z6791,unspecified blood type rh negative
+Z67A1,duffy null
+Z67A2,duffy a positive
+Z67A3,duffy b positive
+Z67A4,duffy a and b positive
+Z681,body mass index bmi 199 or less adult
+Z6820,body mass index bmi 200209 adult
+Z6821,body mass index bmi 210219 adult
+Z6822,body mass index bmi 220229 adult
+Z6823,body mass index bmi 230239 adult
+Z6824,body mass index bmi 240249 adult
+Z6825,body mass index bmi 250259 adult
+Z6826,body mass index bmi 260269 adult
+Z6827,body mass index bmi 270279 adult
+Z6828,body mass index bmi 280289 adult
+Z6829,body mass index bmi 290299 adult
+Z6830,body mass index bmi 300309 adult
+Z6831,body mass index bmi 310319 adult
+Z6832,body mass index bmi 320329 adult
+Z6833,body mass index bmi 330339 adult
+Z6834,body mass index bmi 340349 adult
+Z6835,body mass index bmi 350359 adult
+Z6836,body mass index bmi 360369 adult
+Z6837,body mass index bmi 370379 adult
+Z6838,body mass index bmi 380389 adult
+Z6839,body mass index bmi 390399 adult
+Z6841,body mass index bmi 400449 adult
+Z6842,body mass index bmi 450499 adult
+Z6843,body mass index bmi 500599 adult
+Z6844,body mass index bmi 600699 adult
+Z6845,body mass index bmi 70 or greater adult
+Z6851,body mass index bmi pediatric less than 5th percentile for age
+Z6852,body mass index bmi pediatric 5th percentile to less than 85th percentile for age
+Z6853,body mass index bmi pediatric 85th percentile to less than 95th percentile for age
+Z6854,body mass index bmi pediatric 95th percentile for age to less than 120 of the 95th percentile for age
+Z6855,body mass index bmi pediatric 120 of the 95th percentile for age to less than 140 of the 95th percentile for age
+Z6856,body mass index bmi pediatric greater than or equal to 140 of the 95th percentile for age
+Z69010,encounter for mental health services for victim of parental child abuse
+Z69011,encounter for mental health services for perpetrator of parental child abuse
+Z69020,encounter for mental health services for victim of nonparental child abuse
+Z69021,encounter for mental health services for perpetrator of nonparental child abuse
+Z6911,encounter for mental health services for victim of spousal or partner abuse
+Z6912,encounter for mental health services for perpetrator of spousal or partner abuse
+Z6981,encounter for mental health services for victim of other abuse
+Z6982,encounter for mental health services for perpetrator of other abuse
+Z700,counseling related to sexual attitude
+Z701,counseling related to patients sexual behavior and orientation
+Z702,counseling related to sexual behavior and orientation of third party
+Z703,counseling related to combined concerns regarding sexual attitude behavior and orientation
+Z708,other sex counseling
+Z709,sex counseling unspecified
+Z710,person encountering health services to consult on behalf of another person
+Z711,person with feared health complaint in whom no diagnosis is made
+Z712,person consulting for explanation of examination or test findings
+Z713,dietary counseling and surveillance
+Z7141,alcohol abuse counseling and surveillance of alcoholic
+Z7142,counseling for family member of alcoholic
+Z7151,drug abuse counseling and surveillance of drug abuser
+Z7152,counseling for family member of drug abuser
+Z716,tobacco abuse counseling
+Z717,human immunodeficiency virus hiv counseling
+Z7181,spiritual or religious counseling
+Z7182,exercise counseling
+Z7183,encounter for nonprocreative genetic counseling
+Z7184,encounter for health counseling related to travel
+Z7185,encounter for immunization safety counseling
+Z7187,encounter for pediatrictoadult transition counseling
+Z7188,encounter for counseling for socioeconomic factors
+Z7189,other specified counseling
+Z719,counseling unspecified
+Z720,tobacco use
+Z723,lack of physical exercise
+Z724,inappropriate diet and eating habits
+Z7251,high risk heterosexual behavior
+Z7252,high risk homosexual behavior
+Z7253,high risk bisexual behavior
+Z726,gambling and betting
+Z72810,child and adolescent antisocial behavior
+Z72811,adult antisocial behavior
+Z72820,sleep deprivation
+Z72821,inadequate sleep hygiene
+Z72823,risk of suffocation smothering under another while sleeping
+Z7289,other problems related to lifestyle
+Z729,problem related to lifestyle unspecified
+Z730,burnout
+Z731,type a behavior pattern
+Z732,lack of relaxation and leisure
+Z733,stress not elsewhere classified
+Z734,inadequate social skills not elsewhere classified
+Z735,social role conflict not elsewhere classified
+Z736,limitation of activities due to disability
+Z73810,behavioral insomnia of childhood sleeponset association type
+Z73811,behavioral insomnia of childhood limit setting type
+Z73812,behavioral insomnia of childhood combined type
+Z73819,behavioral insomnia of childhood unspecified type
+Z7382,dual sensory impairment
+Z7389,other problems related to life management difficulty
+Z739,problem related to life management difficulty unspecified
+Z7401,bed confinement status
+Z7409,other reduced mobility
+Z741,need for assistance with personal care
+Z742,need for assistance at home and no other household member able to render care
+Z743,need for continuous supervision
+Z748,other problems related to care provider dependency
+Z749,problem related to care provider dependency unspecified
+Z750,medical services not available in home
+Z751,person awaiting admission to adequate facility elsewhere
+Z752,other waiting period for investigation and treatment
+Z753,unavailability and inaccessibility of healthcare facilities
+Z754,unavailability and inaccessibility of other helping agencies
+Z755,holiday relief care
+Z758,other problems related to medical facilities and other health care
+Z759,unspecified problem related to medical facilities and other health care
+Z760,encounter for issue of repeat prescription
+Z761,encounter for health supervision and care of foundling
+Z762,encounter for health supervision and care of other healthy infant and child
+Z763,healthy person accompanying sick person
+Z764,other boarder to healthcare facility
+Z765,malingerer conscious simulation
+Z7681,expectant parents prebirth pediatrician visit
+Z7682,awaiting organ transplant status
+Z7689,persons encountering health services in other specified circumstances
+Z77010,contact with and suspected exposure to arsenic
+Z77011,contact with and suspected exposure to lead
+Z77012,contact with and suspected exposure to uranium
+Z77018,contact with and suspected exposure to other hazardous metals
+Z77020,contact with and suspected exposure to aromatic amines
+Z77021,contact with and suspected exposure to benzene
+Z77028,contact with and suspected exposure to other hazardous aromatic compounds
+Z77090,contact with and suspected exposure to asbestos
+Z77098,contact with and suspected exposure to other hazardous chiefly nonmedicinal chemicals
+Z77110,contact with and suspected exposure to air pollution
+Z77111,contact with and suspected exposure to water pollution
+Z77112,contact with and suspected exposure to soil pollution
+Z77118,contact with and suspected exposure to other environmental pollution
+Z77120,contact with and suspected exposure to mold toxic
+Z77121,contact with and suspected exposure to harmful algae and algae toxins
+Z77122,contact with and suspected exposure to noise
+Z77123,contact with and suspected exposure to radon and other naturally occurring radiation
+Z77128,contact with and suspected exposure to other hazards in the physical environment
+Z7721,contact with and suspected exposure to potentially hazardous body fluids
+Z7722,contact with and suspected exposure to environmental tobacco smoke acute chronic
+Z7729,contact with and suspected exposure to other hazardous substances
+Z7731,contact with and suspected exposure to gulf war theater
+Z7739,contact with and suspected exposure to other war theater
+Z779,other contact with and suspected exposures hazardous to health
+Z780,asymptomatic menopausal state
+Z781,physical restraint status
+Z789,other specified health status
+Z7901,long term current use of anticoagulants
+Z7902,long term current use of antithromboticsantiplatelets
+Z791,long term current use of nonsteroidal antiinflammatories nsaid
+Z792,long term current use of antibiotics
+Z793,long term current use of hormonal contraceptives
+Z794,long term current use of insulin
+Z7951,long term current use of inhaled steroids
+Z7952,long term current use of systemic steroids
+Z7960,long term current use of unspecified immunomodulators and immunosuppressants
+Z7961,long term current use of immunomodulator
+Z79620,long term current use of immunosuppressive biologic
+Z79621,long term current use of calcineurin inhibitor
+Z79622,long term current use of janus kinase inhibitor
+Z79623,long term current use of mammalian target of rapamycin mtor inhibitor
+Z79624,long term current use of inhibitors of nucleotide synthesis
+Z79630,long term current use of alkylating agent
+Z79631,long term current use of antimetabolite agent
+Z79632,long term current use of antitumor antibiotic
+Z79633,long term current use of mitotic inhibitor
+Z79634,long term current use of topoisomerase inhibitor
+Z7964,long term current use of myelosuppressive agent
+Z7969,long term current use of other immunomodulators and immunosuppressants
+Z79810,long term current use of selective estrogen receptor modulators serms
+Z79811,long term current use of aromatase inhibitors
+Z79818,long term current use of other agents affecting estrogen receptors and estrogen levels
+Z7982,long term current use of aspirin
+Z7983,long term current use of bisphosphonates
+Z7984,long term current use of oral hypoglycemic drugs
+Z7985,longterm current use of injectable noninsulin antidiabetic drugs
+Z79890,hormone replacement therapy
+Z79891,long term current use of opiate analgesic
+Z79899,other long term current drug therapy
+Z800,family history of malignant neoplasm of digestive organs
+Z801,family history of malignant neoplasm of trachea bronchus and lung
+Z802,family history of malignant neoplasm of other respiratory and intrathoracic organs
+Z803,family history of malignant neoplasm of breast
+Z8041,family history of malignant neoplasm of ovary
+Z8042,family history of malignant neoplasm of prostate
+Z8043,family history of malignant neoplasm of testis
+Z8044,family history of malignant neoplasm of fallopian tubes
+Z8049,family history of malignant neoplasm of other genital organs
+Z8051,family history of malignant neoplasm of kidney
+Z8052,family history of malignant neoplasm of bladder
+Z8059,family history of malignant neoplasm of other urinary tract organ
+Z806,family history of leukemia
+Z807,family history of other malignant neoplasms of lymphoid hematopoietic and related tissues
+Z808,family history of malignant neoplasm of other organs or systems
+Z809,family history of malignant neoplasm unspecified
+Z810,family history of intellectual disabilities
+Z811,family history of alcohol abuse and dependence
+Z812,family history of tobacco abuse and dependence
+Z813,family history of other psychoactive substance abuse and dependence
+Z814,family history of other substance abuse and dependence
+Z818,family history of other mental and behavioral disorders
+Z820,family history of epilepsy and other diseases of the nervous system
+Z821,family history of blindness and visual loss
+Z822,family history of deafness and hearing loss
+Z823,family history of stroke
+Z8241,family history of sudden cardiac death
+Z8249,family history of ischemic heart disease and other diseases of the circulatory system
+Z825,family history of asthma and other chronic lower respiratory diseases
+Z8261,family history of arthritis
+Z8262,family history of osteoporosis
+Z8269,family history of other diseases of the musculoskeletal system and connective tissue
+Z8271,family history of polycystic kidney
+Z8279,family history of other congenital malformations deformations and chromosomal abnormalities
+Z828,family history of other disabilities and chronic diseases leading to disablement not elsewhere classified
+Z830,family history of human immunodeficiency virus hiv disease
+Z831,family history of other infectious and parasitic diseases
+Z832,family history of diseases of the blood and bloodforming organs and certain disorders involving the immune mechanism
+Z833,family history of diabetes mellitus
+Z8341,family history of multiple endocrine neoplasia men syndrome
+Z8342,family history of familial hypercholesterolemia
+Z83430,family history of elevated lipoproteina
+Z83438,family history of other disorder of lipoprotein metabolism and other lipidemia
+Z8349,family history of other endocrine nutritional and metabolic diseases
+Z83511,family history of glaucoma
+Z83518,family history of other specified eye disorder
+Z8352,family history of ear disorders
+Z836,family history of other diseases of the respiratory system
+Z83710,family history of adenomatous and serrated polyps
+Z83711,family history of hyperplastic colon polyps
+Z83718,family history of other colon polyps
+Z83719,family history of colon polyps unspecified
+Z8372,family history of familial adenomatous polyposis
+Z8379,family history of other diseases of the digestive system
+Z840,family history of diseases of the skin and subcutaneous tissue
+Z8411,family history of apol1mediated kidney disease amkd
+Z8419,family history of other disorders of kidney and ureter
+Z842,family history of other diseases of the genitourinary system
+Z843,family history of consanguinity
+Z8481,family history of carrier of genetic disease
+Z8482,family history of sudden infant death syndrome
+Z8489,family history of other specified conditions
+Z84A,family history of exposure to diethylstilbestrol
+Z8500,personal history of malignant neoplasm of unspecified digestive organ
+Z8501,personal history of malignant neoplasm of esophagus
+Z85020,personal history of malignant carcinoid tumor of stomach
+Z85028,personal history of other malignant neoplasm of stomach
+Z85030,personal history of malignant carcinoid tumor of large intestine
+Z85038,personal history of other malignant neoplasm of large intestine
+Z85040,personal history of malignant carcinoid tumor of rectum
+Z85048,personal history of other malignant neoplasm of rectum rectosigmoid junction and anus
+Z8505,personal history of malignant neoplasm of liver
+Z85060,personal history of malignant carcinoid tumor of small intestine
+Z85068,personal history of other malignant neoplasm of small intestine
+Z8507,personal history of malignant neoplasm of pancreas
+Z8509,personal history of malignant neoplasm of other digestive organs
+Z85110,personal history of malignant carcinoid tumor of bronchus and lung
+Z85118,personal history of other malignant neoplasm of bronchus and lung
+Z8512,personal history of malignant neoplasm of trachea
+Z8520,personal history of malignant neoplasm of unspecified respiratory organ
+Z8521,personal history of malignant neoplasm of larynx
+Z8522,personal history of malignant neoplasm of nasal cavities middle ear and accessory sinuses
+Z85230,personal history of malignant carcinoid tumor of thymus
+Z85238,personal history of other malignant neoplasm of thymus
+Z8529,personal history of malignant neoplasm of other respiratory and intrathoracic organs
+Z853,personal history of malignant neoplasm of breast
+Z8540,personal history of malignant neoplasm of unspecified female genital organ
+Z8541,personal history of malignant neoplasm of cervix uteri
+Z8542,personal history of malignant neoplasm of other parts of uterus
+Z8543,personal history of malignant neoplasm of ovary
+Z8544,personal history of malignant neoplasm of other female genital organs
+Z8545,personal history of malignant neoplasm of unspecified male genital organ
+Z8546,personal history of malignant neoplasm of prostate
+Z8547,personal history of malignant neoplasm of testis
+Z8548,personal history of malignant neoplasm of epididymis
+Z8549,personal history of malignant neoplasm of other male genital organs
+Z854A,personal history of malignant neoplasm of fallopian tubes
+Z8550,personal history of malignant neoplasm of unspecified urinary tract organ
+Z8551,personal history of malignant neoplasm of bladder
+Z85520,personal history of malignant carcinoid tumor of kidney
+Z85528,personal history of other malignant neoplasm of kidney
+Z8553,personal history of malignant neoplasm of renal pelvis
+Z8554,personal history of malignant neoplasm of ureter
+Z8559,personal history of malignant neoplasm of other urinary tract organ
+Z856,personal history of leukemia
+Z8571,personal history of hodgkin lymphoma
+Z8572,personal history of nonhodgkin lymphomas
+Z8579,personal history of other malignant neoplasms of lymphoid hematopoietic and related tissues
+Z85810,personal history of malignant neoplasm of tongue
+Z85818,personal history of malignant neoplasm of other sites of lip oral cavity and pharynx
+Z85819,personal history of malignant neoplasm of unspecified site of lip oral cavity and pharynx
+Z85820,personal history of malignant melanoma of skin
+Z85821,personal history of merkel cell carcinoma
+Z85828,personal history of other malignant neoplasm of skin
+Z85830,personal history of malignant neoplasm of bone
+Z85831,personal history of malignant neoplasm of soft tissue
+Z85840,personal history of malignant neoplasm of eye
+Z85841,personal history of malignant neoplasm of brain
+Z85848,personal history of malignant neoplasm of other parts of nervous tissue
+Z85850,personal history of malignant neoplasm of thyroid
+Z85858,personal history of malignant neoplasm of other endocrine glands
+Z8589,personal history of malignant neoplasm of other organs and systems
+Z859,personal history of malignant neoplasm unspecified
+Z86000,personal history of insitu neoplasm of breast
+Z86001,personal history of insitu neoplasm of cervix uteri
+Z86002,personal history of insitu neoplasm of other and unspecified genital organs
+Z86003,personal history of insitu neoplasm of oral cavity esophagus and stomach
+Z86004,personal history of insitu neoplasm of other and unspecified digestive organs
+Z86005,personal history of insitu neoplasm of middle ear and respiratory system
+Z86006,personal history of melanoma insitu
+Z86007,personal history of insitu neoplasm of skin
+Z86008,personal history of insitu neoplasm of other site
+Z8600A,personal history of insitu neoplasm of the fallopian tubes
+Z860100,personal history of colon polyps unspecified
+Z860101,personal history of adenomatous and serrated colon polyps
+Z860102,personal history of hyperplastic colon polyps
+Z860109,personal history of other colon polyps
+Z86011,personal history of benign neoplasm of the brain
+Z86012,personal history of benign carcinoid tumor
+Z86018,personal history of other benign neoplasm
+Z8603,personal history of neoplasm of uncertain behavior
+Z8611,personal history of tuberculosis
+Z8612,personal history of poliomyelitis
+Z8613,personal history of malaria
+Z8614,personal history of methicillin resistant staphylococcus aureus infection
+Z8615,personal history of latent tuberculosis infection
+Z8616,personal history of covid19
+Z8619,personal history of other infectious and parasitic diseases
+Z862,personal history of diseases of the blood and bloodforming organs and certain disorders involving the immune mechanism
+Z8631,personal history of diabetic foot ulcer
+Z8632,personal history of gestational diabetes
+Z8639,personal history of other endocrine nutritional and metabolic disease
+Z8651,personal history of combat and operational stress reaction
+Z8659,personal history of other mental and behavioral disorders
+Z8661,personal history of infections of the central nervous system
+Z8669,personal history of other diseases of the nervous system and sense organs
+Z86711,personal history of pulmonary embolism
+Z86718,personal history of other venous thrombosis and embolism
+Z8672,personal history of thrombophlebitis
+Z8673,personal history of transient ischemic attack tia and cerebral infarction without residual deficits
+Z8674,personal history of sudden cardiac arrest
+Z8679,personal history of other diseases of the circulatory system
+Z8701,personal history of pneumonia recurrent
+Z8709,personal history of other diseases of the respiratory system
+Z8711,personal history of peptic ulcer disease
+Z8719,personal history of other diseases of the digestive system
+Z872,personal history of diseases of the skin and subcutaneous tissue
+Z87310,personal history of healed osteoporosis fracture
+Z87311,personal history of healed other pathological fracture
+Z87312,personal history of healed stress fracture
+Z8739,personal history of other diseases of the musculoskeletal system and connective tissue
+Z87410,personal history of cervical dysplasia
+Z87411,personal history of vaginal dysplasia
+Z87412,personal history of vulvar dysplasia
+Z8742,personal history of other diseases of the female genital tract
+Z87430,personal history of prostatic dysplasia
+Z87438,personal history of other diseases of male genital organs
+Z87440,personal history of urinary tract infections
+Z87441,personal history of nephrotic syndrome
+Z87442,personal history of urinary calculi
+Z87448,personal history of other diseases of urinary system
+Z8751,personal history of preterm labor
+Z8759,personal history of other complications of pregnancy childbirth and the puerperium
+Z8761,personal history of corrected necrotizing enterocolitis of newborn
+Z8768,personal history of other corrected conditions arising in the perinatal period
+Z87710,personal history of corrected hypospadias
+Z87718,personal history of other specified corrected congenital malformations of genitourinary system
+Z87720,personal history of corrected congenital malformations of eye
+Z87721,personal history of corrected congenital malformations of ear
+Z87728,personal history of other specified corrected congenital malformations of nervous system and sense organs
+Z87730,personal history of corrected cleft lip and palate
+Z87731,personal history of corrected tracheoesophageal fistula or atresia
+Z87732,personal history of corrected persistent cloaca or cloacal malformations
+Z87738,personal history of other specified corrected congenital malformations of digestive system
+Z8774,personal history of corrected congenital malformations of heart and circulatory system
+Z8775,personal history of corrected congenital malformations of respiratory system
+Z87760,personal history of corrected congenital diaphragmatic hernia or other congenital diaphragm malformations
+Z87761,personal history of corrected gastroschisis
+Z87762,personal history of corrected prune belly malformation
+Z87763,personal history of other corrected congenital abdominal wall malformations
+Z87768,personal history of other specified corrected congenital malformations of integument limbs and musculoskeletal system
+Z87790,personal history of corrected congenital malformations of face and neck
+Z87798,personal history of other corrected congenital malformations
+Z8781,personal history of healed traumatic fracture
+Z87820,personal history of traumatic brain injury
+Z87821,personal history of retained foreign body fully removed
+Z87828,personal history of other healed physical injury and trauma
+Z87890,personal history of sex reassignment
+Z87891,personal history of nicotine dependence
+Z87892,personal history of anaphylaxis
+Z87898,personal history of other specified conditions
+Z880,allergy status to penicillin
+Z881,allergy status to other antibiotic agents
+Z882,allergy status to sulfonamides
+Z883,allergy status to other antiinfective agents
+Z884,allergy status to anesthetic agent
+Z885,allergy status to narcotic agent
+Z886,allergy status to analgesic agent
+Z887,allergy status to serum and vaccine
+Z888,allergy status to other drugs medicaments and biological substances
+Z889,allergy status to unspecified drugs medicaments and biological substances
+Z89011,acquired absence of right thumb
+Z89012,acquired absence of left thumb
+Z89019,acquired absence of unspecified thumb
+Z89021,acquired absence of right fingers
+Z89022,acquired absence of left fingers
+Z89029,acquired absence of unspecified fingers
+Z89111,acquired absence of right hand
+Z89112,acquired absence of left hand
+Z89119,acquired absence of unspecified hand
+Z89121,acquired absence of right wrist
+Z89122,acquired absence of left wrist
+Z89129,acquired absence of unspecified wrist
+Z89201,acquired absence of right upper limb unspecified level
+Z89202,acquired absence of left upper limb unspecified level
+Z89209,acquired absence of unspecified upper limb unspecified level
+Z89211,acquired absence of right upper limb below elbow
+Z89212,acquired absence of left upper limb below elbow
+Z89219,acquired absence of unspecified upper limb below elbow
+Z89221,acquired absence of right upper limb above elbow
+Z89222,acquired absence of left upper limb above elbow
+Z89229,acquired absence of unspecified upper limb above elbow
+Z89231,acquired absence of right shoulder
+Z89232,acquired absence of left shoulder
+Z89239,acquired absence of unspecified shoulder
+Z89411,acquired absence of right great toe
+Z89412,acquired absence of left great toe
+Z89419,acquired absence of unspecified great toe
+Z89421,acquired absence of other right toes
+Z89422,acquired absence of other left toes
+Z89429,acquired absence of other toes unspecified side
+Z89431,acquired absence of right foot
+Z89432,acquired absence of left foot
+Z89439,acquired absence of unspecified foot
+Z89441,acquired absence of right ankle
+Z89442,acquired absence of left ankle
+Z89449,acquired absence of unspecified ankle
+Z89511,acquired absence of right leg below knee
+Z89512,acquired absence of left leg below knee
+Z89519,acquired absence of unspecified leg below knee
+Z89521,acquired absence of right knee
+Z89522,acquired absence of left knee
+Z89529,acquired absence of unspecified knee
+Z89611,acquired absence of right leg above knee
+Z89612,acquired absence of left leg above knee
+Z89619,acquired absence of unspecified leg above knee
+Z89621,acquired absence of right hip joint
+Z89622,acquired absence of left hip joint
+Z89629,acquired absence of unspecified hip joint
+Z899,acquired absence of limb unspecified
+Z9001,acquired absence of eye
+Z9002,acquired absence of larynx
+Z9009,acquired absence of other part of head and neck
+Z9010,acquired absence of unspecified breast and nipple
+Z9011,acquired absence of right breast and nipple
+Z9012,acquired absence of left breast and nipple
+Z9013,acquired absence of bilateral breasts and nipples
+Z902,acquired absence of lung part of
+Z903,acquired absence of stomach part of
+Z90410,acquired total absence of pancreas
+Z90411,acquired partial absence of pancreas
+Z9049,acquired absence of other specified parts of digestive tract
+Z905,acquired absence of kidney
+Z906,acquired absence of other parts of urinary tract
+Z90710,acquired absence of both cervix and uterus
+Z90711,acquired absence of uterus with remaining cervical stump
+Z90712,acquired absence of cervix with remaining uterus
+Z90721,acquired absence of ovaries unilateral
+Z90722,acquired absence of ovaries bilateral
+Z9079,acquired absence of other genital organs
+Z9081,acquired absence of spleen
+Z9089,acquired absence of other organs
+Z91010,allergy to peanuts
+Z910110,allergy to milk products unspecified
+Z910111,allergy to milk products with tolerance to baked milk
+Z910112,allergy to milk products with reactivity to baked milk
+Z910120,allergy to eggs unspecified
+Z910121,allergy to eggs with tolerance to baked egg
+Z910122,allergy to eggs with reactivity to baked egg
+Z91013,allergy to seafood
+Z91014,allergy to mammalian meats
+Z91018,allergy to other foods
+Z9102,food additives allergy status
+Z91030,bee allergy status
+Z91038,other insect allergy status
+Z91040,latex allergy status
+Z91041,radiographic dye allergy status
+Z91048,other nonmedicinal substance allergy status
+Z9109,other allergy status other than to drugs and biological substances
+Z91110,patients noncompliance with dietary regimen due to financial hardship
+Z91118,patients noncompliance with dietary regimen for other reason
+Z91119,patients noncompliance with dietary regimen due to unspecified reason
+Z91120,patients intentional underdosing of medication regimen due to financial hardship
+Z91128,patients intentional underdosing of medication regimen for other reason
+Z91130,patients unintentional underdosing of medication regimen due to agerelated debility
+Z91138,patients unintentional underdosing of medication regimen for other reason
+Z91141,patients other noncompliance with medication regimen due to financial hardship
+Z91148,patients other noncompliance with medication regimen for other reason
+Z91151,patients noncompliance with renal dialysis due to financial hardship
+Z91158,patients noncompliance with renal dialysis for other reason
+Z91190,patients noncompliance with other medical treatment and regimen due to financial hardship
+Z91198,patients noncompliance with other medical treatment and regimen for other reason
+Z91199,patients noncompliance with other medical treatment and regimen due to unspecified reason
+Z91A10,caregivers noncompliance with patients dietary regimen due to financial hardship
+Z91A18,caregivers noncompliance with patients dietary regimen for other reason
+Z91A20,caregivers intentional underdosing of patients medication regimen due to financial hardship
+Z91A28,caregivers intentional underdosing of medication regimen for other reason
+Z91A3,caregivers unintentional underdosing of patients medication regimen
+Z91A41,caregivers other noncompliance with patients medication regimen due to financial hardship
+Z91A48,caregivers other noncompliance with patients medication regimen for other reason
+Z91A51,caregivers noncompliance with patients renal dialysis due to financial hardship
+Z91A58,caregivers noncompliance with patients renal dialysis for other reason
+Z91A91,caregivers noncompliance with patients other medical treatment and regimen due to financial hardship
+Z91A98,caregivers noncompliance with patients other medical treatment and regimen for other reason
+Z91410,personal history of adult physical and sexual abuse
+Z91411,personal history of adult psychological abuse
+Z91412,personal history of adult neglect
+Z91413,personal history of adult financial abuse
+Z91414,personal history of adult intimate partner abuse
+Z91419,personal history of unspecified adult abuse
+Z9142,personal history of forced labor or sexual exploitation
+Z9149,other personal history of psychological trauma not elsewhere classified
+Z9151,personal history of suicidal behavior
+Z9152,personal history of nonsuicidal selfharm
+Z9181,history of falling
+Z9182,personal history of military deployment
+Z9183,wandering in diseases classified elsewhere
+Z91841,risk for dental caries low
+Z91842,risk for dental caries moderate
+Z91843,risk for dental caries high
+Z91849,unspecified risk for dental caries
+Z9185,personal history of military service
+Z9189,other specified personal risk factors not elsewhere classified
+Z91B,personal risk factor of exposure to diethylstilbestrol
+Z920,personal history of contraception
+Z9221,personal history of antineoplastic chemotherapy
+Z9222,personal history of monoclonal drug therapy
+Z9223,personal history of estrogen therapy
+Z92240,personal history of inhaled steroid therapy
+Z92241,personal history of systemic steroid therapy
+Z9225,personal history of immunosuppression therapy
+Z9226,personal history of immune checkpoint inhibitor therapy
+Z9229,personal history of other drug therapy
+Z923,personal history of irradiation
+Z9281,personal history of extracorporeal membrane oxygenation ecmo
+Z9282,status post administration of tpa rtpa in a different facility within the last 24 hours prior to admission to current facility
+Z9283,personal history of failed moderate sedation
+Z9284,personal history of unintended awareness under general anesthesia
+Z92850,personal history of chimeric antigen receptor tcell therapy
+Z92858,personal history of other cellular therapy
+Z92859,personal history of cellular therapy unspecified
+Z9286,personal history of gene therapy
+Z9289,personal history of other medical treatment
+Z930,tracheostomy status
+Z931,gastrostomy status
+Z932,ileostomy status
+Z933,colostomy status
+Z934,other artificial openings of gastrointestinal tract status
+Z9350,unspecified cystostomy status
+Z9351,cutaneousvesicostomy status
+Z9352,appendicovesicostomy status
+Z9359,other cystostomy status
+Z936,other artificial openings of urinary tract status
+Z938,other artificial opening status
+Z939,artificial opening status unspecified
+Z940,kidney transplant status
+Z941,heart transplant status
+Z942,lung transplant status
+Z943,heart and lungs transplant status
+Z944,liver transplant status
+Z945,skin transplant status
+Z946,bone transplant status
+Z947,corneal transplant status
+Z9481,bone marrow transplant status
+Z9482,intestine transplant status
+Z9483,pancreas transplant status
+Z9484,stem cells transplant status
+Z9489,other transplanted organ and tissue status
+Z949,transplanted organ and tissue status unspecified
+Z950,presence of cardiac pacemaker
+Z951,presence of aortocoronary bypass graft
+Z952,presence of prosthetic heart valve
+Z953,presence of xenogenic heart valve
+Z954,presence of other heartvalve replacement
+Z955,presence of coronary angioplasty implant and graft
+Z95810,presence of automatic implantable cardiac defibrillator
+Z95811,presence of heart assist device
+Z95812,presence of fully implantable artificial heart
+Z95818,presence of other cardiac implants and grafts
+Z95820,peripheral vascular angioplasty status with implants and grafts
+Z95828,presence of other vascular implants and grafts
+Z959,presence of cardiac and vascular implant and graft unspecified
+Z960,presence of urogenital implants
+Z961,presence of intraocular lens
+Z9620,presence of otological and audiological implant unspecified
+Z9621,cochlear implant status
+Z9622,myringotomy tubes status
+Z9629,presence of other otological and audiological implants
+Z963,presence of artificial larynx
+Z9641,presence of insulin pump external internal
+Z9649,presence of other endocrine implants
+Z965,presence of toothroot and mandibular implants
+Z9660,presence of unspecified orthopedic joint implant
+Z96611,presence of right artificial shoulder joint
+Z96612,presence of left artificial shoulder joint
+Z96619,presence of unspecified artificial shoulder joint
+Z96621,presence of right artificial elbow joint
+Z96622,presence of left artificial elbow joint
+Z96629,presence of unspecified artificial elbow joint
+Z96631,presence of right artificial wrist joint
+Z96632,presence of left artificial wrist joint
+Z96639,presence of unspecified artificial wrist joint
+Z96641,presence of right artificial hip joint
+Z96642,presence of left artificial hip joint
+Z96643,presence of artificial hip joint bilateral
+Z96649,presence of unspecified artificial hip joint
+Z96651,presence of right artificial knee joint
+Z96652,presence of left artificial knee joint
+Z96653,presence of artificial knee joint bilateral
+Z96659,presence of unspecified artificial knee joint
+Z96661,presence of right artificial ankle joint
+Z96662,presence of left artificial ankle joint
+Z96669,presence of unspecified artificial ankle joint
+Z96691,fingerjoint replacement of right hand
+Z96692,fingerjoint replacement of left hand
+Z96693,fingerjoint replacement bilateral
+Z96698,presence of other orthopedic joint implants
+Z967,presence of other bone and tendon implants
+Z9681,presence of artificial skin
+Z9682,presence of neurostimulator
+Z9689,presence of other specified functional implants
+Z969,presence of functional implant unspecified
+Z970,presence of artificial eye
+Z9710,presence of artificial limb complete partial unspecified
+Z9711,presence of artificial right arm complete partial
+Z9712,presence of artificial left arm complete partial
+Z9713,presence of artificial right leg complete partial
+Z9714,presence of artificial left leg complete partial
+Z9715,presence of artificial arms bilateral complete partial
+Z9716,presence of artificial legs bilateral complete partial
+Z972,presence of dental prosthetic device complete partial
+Z973,presence of spectacles and contact lenses
+Z974,presence of external hearingaid
+Z975,presence of intrauterine contraceptive device
+Z978,presence of other specified devices
+Z980,intestinal bypass and anastomosis status
+Z981,arthrodesis status
+Z982,presence of cerebrospinal fluid drainage device
+Z983,post therapeutic collapse of lung status
+Z9841,cataract extraction status right eye
+Z9842,cataract extraction status left eye
+Z9849,cataract extraction status unspecified eye
+Z9851,tubal ligation status
+Z9852,vasectomy status
+Z9861,coronary angioplasty status
+Z9862,peripheral vascular angioplasty status
+Z98810,dental sealant status
+Z98811,dental restoration status
+Z98818,other dental procedure status
+Z9882,breast implant status
+Z9883,filtering vitreous bleb after glaucoma surgery status
+Z9884,bariatric surgery status
+Z9885,transplanted organ removal status
+Z9886,personal history of breast implant removal
+Z98870,personal history of in utero procedure during pregnancy
+Z98871,personal history of in utero procedure while a fetus
+Z98890,other specified postprocedural states
+Z98891,history of uterine scar from previous surgery
+Z990,dependence on aspirator
+Z9911,dependence on respirator ventilator status
+Z9912,encounter for respirator ventilator dependence during power failure
+Z992,dependence on renal dialysis
+Z993,dependence on wheelchair
+Z9981,dependence on supplemental oxygen
+Z9989,dependence on other enabling machines and devices
